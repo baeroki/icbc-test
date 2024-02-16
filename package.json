@@ -1,5 +1,6 @@
 {
     "dependencies": {
+        "chrome-paths": "^1.0.1",
         "edge-paths": "^3.0.5",
         "puppeteer": "^22.0.0",
         "xml2js": "^0.6.2"
