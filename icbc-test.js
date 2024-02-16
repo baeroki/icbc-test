@@ -9,12 +9,14 @@ const path = require('path');
 
   const width = 1200;
   const height = 900;
+
   //let edgePaths = await import('edge-paths')
   //const EDGE_PATH = edgePaths.getEdgePath();
-  const CHROME_PATH = 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe';
+  //const CHROME_PATH = 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe';
+
   const browser = await puppeteer.launch({
     headless: false,
-    executablePath: CHROME_PATH,
+    //executablePath: CHROME_PATH,
     ignoreDefaultArgs: ['--enable-automation'],
     args: [`--window-size=${width},${height}`, '--disable-features=site-per-process']
   });
