@@ -8,7 +8,7 @@ ICBC官方驾考测试只有英语与Punjabi，本项目在ICBC官方驾考测�
 ## 安装
 
 ### 浏览器
-如需运行独立的可执行文件，需要安装Chrome浏览器，并确保其安装路径在C:\Program Files\Google\Chrome\Application\chrome.exe。
+如需运行独立的可执行文件，需要安装Chrome浏览器。
 
 ### Node.js
 如要生成独立的可执行文件，需要安装Node.js 18，因为pkg只支持到Node 18： https://nodejs.org/download/release/v18.19.1/node-v18.19.1-x64.msi； 如果不需要独立的可执行文件，可以安装最新版本的Node.js： https://nodejs.org/.
