@@ -37,7 +37,7 @@ start.bat
 ```
 built.bat
 ```
-生成的可执行文件在'dist/icbc-test.exe'
+生成的可执行文件在'dist/icbc-test.exe'，运行需要安装Chrome。
 
 ---
 
