@@ -1,0 +1,2354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+	Translation based on the English version
+	the schema for each question is based on the columns in the document:
+	FINAL ICBC-online test-questions_Eng n Pun_090828.xls
+-->
+<test title="Practice knowledge test" shortTitle="opkt" language="mandarin" randomizeQuestions="true" randomizeAnswers="true" totalQuestions="25">
+	<content>
+		<title><![CDATA[Practice knowledge test]]></title>
+		<correct><![CDATA[correct]]></correct>
+		<incorrect><![CDATA[incorrect]]></incorrect>
+		<confirm><![CDATA[confirm]]></confirm>
+		<answered><![CDATA[answered]]></answered>
+		<of><![CDATA[of]]></of>
+		<continue><![CDATA[continue]]></continue>
+		<passingResultsHeading><![CDATA[Congratulations!]]></passingResultsHeading>
+		<passingResultsBody><![CDATA[You passed the test.]]></passingResultsBody>
+		<failingResultsHeading><![CDATA[You've completed the test]]></failingResultsHeading>
+		<failingResultsBody><![CDATA[A passing score of 80% is required on the real test.]]></failingResultsBody>
+		<scoreMessage><![CDATA[You scored:]]></scoreMessage>
+		<result><![CDATA[You got <span class="key-item-status--correct">%s</span> correct and <span class="key-item-status--incorrect">%s</span> incorrect.]]></result>
+		<retake><![CDATA[Take the test again]]></retake>
+		<exit><![CDATA[Exit]]></exit>
+		<message><![CDATA[<p>Need to study before your knowledge test? Check out the <a href="http://www.icbc.com/driver-licensing/driving-guides/Pages/Learn-to-Drive-Smart.aspx" target="_blank">Learn to Drive Smart Manual</a>.</p>]]></message>
+		<reviewButton><![CDATA[Review answers]]></reviewButton>
+		<reviewAnswers><![CDATA[Review your answers below...]]></reviewAnswers>
+		<backToTop><![CDATA[Back to top]]></backToTop>
+	</content>
+
+	<questions>
+		<question id="0">
+			<text><![CDATA[在驾驶时，要识别周边的危险，你应该]]></text>
+			<answers>
+				<answer><![CDATA[定期扫描驾驶环境]]></answer>
+				<distractor_1><![CDATA[只将你的目光直接放在前方的道路上]]></distractor_1>
+				<distractor_2><![CDATA[避免使用你的后视镜]]></distractor_2>
+				<distractor_3><![CDATA[调整你的收音机以接收本地交通信息]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 5: See - Think - Do]]></chapter>
+			<source><![CDATA[Do not overdrive your ability to see. You should always be able to prepare for a potential hazard instead of being taken by surprise.]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers5.pdf" />
+		</question>
+
+		<question id="1">
+			<text><![CDATA[在自动变速箱的车辆上，第一档和第二档驱动档（D1，D2）应在以下情况下使用<br>On a vehicle with AUTOMATIC transmission, when should the first and second DRIVE (D1, D2) gears be used]]></text>
+			<answers>
+				<answer><![CDATA[在拖拉重载或者上下非常陡峭的山坡时。]]></answer>
+				<distractor_1><![CDATA[在离开高速公路时。]]></distractor_1>
+				<distractor_2><![CDATA[在停车时。]]></distractor_2>
+				<distractor_3><![CDATA[在下雨时。]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 2: You and Your Vehicle; Comparing Automatic and Standard Transmissions]]></chapter>
+			<source><![CDATA[There are two types of transmissions: automatic and standard. Both control the connection between the engine and the wheels.]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers2.pdf" />
+		</question>
+
+		<question id="2">
+			<text><![CDATA[以下哪项不是您每次驾驶前应进行的出行前检查的一部分？]]></text>
+			<answers>
+				<answer><![CDATA[检查冷却液和油位。]]></answer>
+				<distractor_1><![CDATA[检查侧视镜和后视镜是否调整正确。]]></distractor_1>
+				<distractor_2><![CDATA[检查头枕和安全带是否调整正确。]]></distractor_2>
+				<distractor_3><![CDATA[检查灯光和转向信号。]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 2: You and Your Vehicle; Pre-trip Check.]]></chapter>
+			<source><![CDATA[To ensure good maintenance, you need to do a more thorough pre-trip check every few weeks. ]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers2.pdf" />
+		</question>
+
+		<question id="3">
+			<text><![CDATA[安全带在以下情况下最能有效预防伤害]]></text>
+			<answers>
+				<answer><![CDATA[腰带和肩带正确佩戴时。]]></answer>
+				<distractor_1><![CDATA[头枕完全伸展时。]]></distractor_1>
+				<distractor_2><![CDATA[座椅完全向前移动时。]]></distractor_2>
+				<distractor_3><![CDATA[座椅稍微向后倾斜时。]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 2: You and Your Vehicle; Seatbelts]]></chapter>
+			<source><![CDATA[Wearing a seatbelt significantly reduces your chance of serious injury or death in a crash.]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers2.pdf" />
+		</question>
+
+		<question id="4">
+			<text><![CDATA[作为驾驶员，您应该]]></text>
+			<answers>
+				<answer><![CDATA[不断检查道路两侧及所有的后视镜，以及前方的道路]]></answer>
+				<distractor_1><![CDATA[仔细观察你后面的车]]></distractor_1>
+				<distractor_2><![CDATA[仔细观察你前面的车]]></distractor_2>
+				<distractor_3><![CDATA[很少看你的后视镜]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 5: See - Think - Do; Observation]]></chapter>
+			<source><![CDATA[It is important that you pay attention to things outside your central vision. Peripheral vision allows you to see more than what is directly in front of you.]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers5.pdf" />
+		</question>
+
+		<question id="5">
+			<text><![CDATA[当您右转时，您应该肩部检查以]]></text>
+			<answers>
+				<answer><![CDATA[确保没有自行车手或其他道路使用者在您旁边]]></answer>
+				<distractor_1><![CDATA[确保您处于正确的车道]]></distractor_1>
+				<distractor_2><![CDATA[警告后面的车辆您打算转弯]]></distractor_2>
+				<distractor_3><![CDATA[确保您后面的车辆不太靠近]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 5: See - Think - Do; Observation]]></chapter>
+			<source><![CDATA[Whenever you plan a change in direction or road position, do a shoulder check to make sure the blind spot on that side is clear.]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers5.pdf" />
+		</question>
+
+		<question id="6">
+			<text><![CDATA[汽车A的驾驶员正确的“看-想-做”策略是？]]></text>
+			<answers>
+				<answer><![CDATA[看到汽车B紧跟在后；想到，“我需要更多的空间。”；减速并逐渐在前方留出更大的缓冲区。]]></answer>
+				<distractor_1><![CDATA[看到汽车B紧跟在后；想到，“我需要脱身。”；加速以在后方留出更多空间。]]></distractor_1>
+				<distractor_2><![CDATA[看到卡车C右侧有小空隙；想到，“我可以挤过去。”；加速并变道。]]></distractor_2>
+				<distractor_3><![CDATA[看到汽车B紧跟在后；想到，“我需要更多空间。”；突然刹车以吓到汽车B的驾驶员。]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 5:  See - Think - Do]]></chapter>
+			<source><![CDATA[ it's a good idea to slow down slightly to increase your space in front. This way, if you have to stop, you can stop more gradually ...]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers5.pdf" />
+			<image file="images/opkt/q6.png" />
+		</question>
+
+		<question id="7">
+			<text><![CDATA[在什么情况下你不需要做肩部检查？]]></text>
+			<answers>
+				<answer><![CDATA[当判断你的跟车距离时。]]></answer>
+				<distractor_1><![CDATA[当你从路边开出时。]]></distractor_1>
+				<distractor_2><![CDATA[当你靠边停车时。]]></distractor_2>
+				<distractor_3><![CDATA[当你变换车道时。]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 5: See - Think - Do; Observation]]></chapter>
+			<source><![CDATA[Whenever you plan a change in direction or road position, do a shoulder check to make sure the blind spot on that side is clear.]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers5.pdf" />
+		</question>
+
+		<question id="8">
+			<text><![CDATA[直接在汽车A的盲点中的是哪辆车？]]></text>
+			<answers>
+				<answer><![CDATA[汽车D]]></answer>
+				<distractor_1><![CDATA[汽车C]]></distractor_1>
+				<distractor_2><![CDATA[汽车B]]></distractor_2>
+				<distractor_3><![CDATA[汽车E]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 5: See - Think - Do; Observation]]></chapter>
+			<source><![CDATA[Even when your mirrors are properly adjusted, there are large areas that you can't see in your mirrors. These are called blind spots.]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers5.pdf" />
+			<image file="images/opkt/q8.png" />
+		</question>
+
+		<question id="9">
+			<text><![CDATA[检查盲点中的车辆最好的方式是通过]]></text>
+			<answers>
+				<answer><![CDATA[越过你的肩膀看]]></answer>
+				<distractor_1><![CDATA[远离其他车辆]]></distractor_1>
+				<distractor_2><![CDATA[检查侧面和后视镜]]></distractor_2>
+				<distractor_3><![CDATA[提前扫描盲点]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 5: See - Think - Do; Observation]]></chapter>
+			<source><![CDATA[Whenever you plan a change in direction or road position, do a shoulder check to make sure the blind spot on that side is clear.]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers5.pdf" />
+		</question>
+
+		<question id="10">
+			<text><![CDATA[反应时间受到以下情况影响最大]]></text>
+			<answers>
+				<answer><![CDATA[饮酒后]]></answer>
+				<distractor_1><![CDATA[运动后]]></distractor_1>
+				<distractor_2><![CDATA[睡觉后]]></distractor_2>
+				<distractor_3><![CDATA[努力工作后]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 7: Personal Strategies; Facts About Alcohol]]></chapter>
+			<source><![CDATA[In some cases, even small amounts of alcohol can cause a driver to be impaired.]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers7.pdf" />
+		</question>
+
+		<question id="11">
+			<text><![CDATA[这位骑自行车的人将要做什么？]]></text>
+			<answers>
+				<answer><![CDATA[停下或减速。]]></answer>
+				<distractor_1><![CDATA[右转。]]></distractor_1>
+				<distractor_2><![CDATA[左转。]]></distractor_2>
+				<distractor_3><![CDATA[让你通过。]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 5: See - Think - Do; Communication]]></chapter>
+			<source><![CDATA[This section has an illustration that shows how cyclists signal left turns, right turns, and stopping or slowing down.]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers5.pdf" />
+			<image file="images/opkt/q11.png" />
+		</question>
+
+		<question id="12">
+			<text><![CDATA[驾驶员不应该在以下情况下变换车道]]></text>
+			<answers>
+				<answer><![CDATA[在交叉路口]]></answer>
+				<distractor_1><![CDATA[在时速低于50公里时]]></distractor_1>
+				<distractor_2><![CDATA[在时速超过80公里时]]></distractor_2>
+				<distractor_3><![CDATA[在医院区域内]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 4: Rules of the Road]]></chapter>
+			<source><![CDATA[Don't change lanes at an intersection. You could confuse other drivers and cause a crash.]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers4.pdf" />
+		</question>
+
+		<question id="13">
+			<text><![CDATA[除非另有标示，城镇内的速度限制是]]></text>
+			<answers>
+				<answer><![CDATA[50公里/小时]]></answer>
+				<distractor_1><![CDATA[30公里/小时]]></distractor_1>
+				<distractor_2><![CDATA[60公里/小时]]></distractor_2>
+				<distractor_3><![CDATA[80公里/小时]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 5: See - Think - Do; Speed Control]]></chapter>
+			<source><![CDATA[Unless a sign tells you otherwise, the speed limit is 50km/h within cities and towns.]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers5.pdf" />
+		</question>
+
+		<question id="14">
+			<text><![CDATA[汽车A的驾驶员应该怎么做？]]></text>
+			<answers>
+				<answer><![CDATA[减速以允许汽车B安全进入。]]></answer>
+				<distractor_1><![CDATA[加速以超过正在合并的汽车B。]]></distractor_1>
+				<distractor_2><![CDATA[减速，按喇叭，并向汽车B挥手。]]></distractor_2>
+				<distractor_3><![CDATA[保持速度。]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 4: Rules of the Road; Highway or Freeway Entrances and Exits]]></chapter>
+			<source><![CDATA[When you are driving in the right lane of a freeway, other drivers may try to merge from an entrance lane. It's not always easy for them to find a safe gap.]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers4.pdf" />
+			<image file="images/opkt/q14.png" />
+		</question>
+
+		<question id="15">
+			<text><![CDATA[在你开始超车之前，你应该]]></text>
+			<answers>
+				<answer><![CDATA[能够清楚地看到前方]]></answer>
+				<distractor_1><![CDATA[靠近前面的车辆]]></distractor_1>
+				<distractor_2><![CDATA[等待前车司机的信号]]></distractor_2>
+				<distractor_3><![CDATA[加速并仔细观察]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 5: See - Think - Do; Assess the Risk]]></chapter>
+			<source><![CDATA[In assessing just how risky this situation is, you should ask yourself what could happen. What if there is an unexpected obstacle just around the curve?]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers5.pdf" />
+		</question>
+
+		<question id="16">
+			<text><![CDATA[你不应该在以下情况超过其他车辆]]></text>
+			<answers>
+				<answer><![CDATA[当你的视线受阻时]]></answer>
+				<distractor_1><![CDATA[在一条不熟悉的道路上]]></distractor_1>
+				<distractor_2><![CDATA[在夜间的双车道路上]]></distractor_2>
+				<distractor_3><![CDATA[在多车道单向街上]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 5: See - Think - Do; Hazard Perception]]></chapter>
+			<source><![CDATA[Be extra cautious when anything blocks your view. Never pass when you are approaching the top of a hill.]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers5.pdf" />
+		</question>
+
+		<question id="17">
+			<text><![CDATA[超过指示的速度限制是非法的]]></text>
+			<answers>
+				<answer><![CDATA[始终]]></answer>
+				<distractor_1><![CDATA[除了在偏远或无人居住的地区]]></distractor_1>
+				<distractor_2><![CDATA[除非你跟得上交通]]></distractor_2>
+				<distractor_3><![CDATA[除非超车]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 5: See - Think - Do; Speed Control]]></chapter>
+			<source><![CDATA[The posted speed is the maximum for ideal conditions only. Choose a lower speed if the conditions are not ideal.]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers5.pdf" />
+		</question>
+
+		<question id="18">
+			<text><![CDATA[如果你在高速公路上跟在一辆大型车辆或摩托车后面，你的跟车距离至少应该是]]></text>
+			<answers>
+				<answer><![CDATA[3秒钟]]></answer>
+				<distractor_1><![CDATA[4秒钟]]></distractor_1>
+				<distractor_2><![CDATA[2秒钟]]></distractor_2>
+				<distractor_3><![CDATA[6秒钟]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 5: See - Think - Do; Space Margins]]></chapter>
+			<source><![CDATA[Allow at least three seconds following distance when you are behind a large vehicle that could block your vision or a motorcycle that could stop very quickly.]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers5.pdf" />
+		</question>
+
+		<question id="19">
+			<text><![CDATA[在恶劣天气或高速公路上的湿滑路况下，你的跟车距离至少应该是]]></text>
+			<answers>
+				<answer><![CDATA[4秒钟]]></answer>
+				<distractor_1><![CDATA[2秒钟]]></distractor_1>
+				<distractor_2><![CDATA[6秒钟]]></distractor_2>
+				<distractor_3><![CDATA[8秒钟]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 5: See - Think - Do; Space Margins]]></chapter>
+			<source><![CDATA[Increase your following distance to three seconds on high-speed roads and to four seconds in bad weather conditions or on uneven or slippery roads.]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers5.pdf" />
+		</question>
+
+		<question id="20">
+			<text><![CDATA[行人和骑自行车的人最容易受到车辆的威胁，因为]]></text>
+			<answers>
+				<answer><![CDATA[他们在事故中更有可能受到严重伤害，而不像汽车司机和乘客]]></answer>
+				<distractor_1><![CDATA[他们不需要遵守道路规则]]></distractor_1>
+				<distractor_2><![CDATA[他们在事故发生时更经常有过错]]></distractor_2>
+				<distractor_3><![CDATA[他们速度较慢]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 6: Sharing the Road]]></chapter>
+			<source><![CDATA[Of all road users, pedestrians are among the most vulnerable. You always need to watch out for them. Pedestrians, like all road users, can be unpredictable.]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers6.pdf" />
+		</question>
+
+		<question id="21">
+			<text><![CDATA[自行车手A面临的最直接危险是什么？]]></text>
+			<answers>
+				<answer><![CDATA[汽车B的驾驶员可能没有注意到自行车手A并转向其行驶路径。]]></answer>
+				<distractor_1><![CDATA[行人可能会走入自行车手A的行驶路径。]]></distractor_1>
+				<distractor_2><![CDATA[汽车C的驾驶员可能会撞上自行车手A的后方。]]></distractor_2>
+				<distractor_3><![CDATA[汽车D的驾驶员将左转。]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 6: Sharing the Road; Cyclists]]></chapter>
+			<source><![CDATA[Be aware that cyclists don't always stay on the right. To make a left turn, for instance, they need to move over to the left lane.]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers6.pdf" />
+			<image file="images/opkt/q21.png" />
+		</question>
+
+		<question id="22">
+			<text><![CDATA[你必须停下来给校车让路]]></text>
+			<answers>
+				<answer><![CDATA[当它的红灯在闪烁时]]></answer>
+				<distractor_1><![CDATA[任何时候]]></distractor_1>
+				<distractor_2><![CDATA[当它载有孩子时]]></distractor_2>
+				<distractor_3><![CDATA[当它在学校旁等待时]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 6: Sharing the Road; School buses]]></chapter>
+			<source><![CDATA[Stop whenever you see flashing lights on a school bus.]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers6.pdf" />
+		</question>
+
+		<question id="23">
+			<text><![CDATA[如果你看到路边的行人想要横穿马路，你应该]]></text>
+			<answers>
+				<answer><![CDATA[减速并准备停车]]></answer>
+				<distractor_1><![CDATA[保持你的速度，因为你有通行权]]></distractor_1>
+				<distractor_2><![CDATA[始终停车并让行]]></distractor_2>
+				<distractor_3><![CDATA[减速并示意他们横穿]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 6: Sharing the Road; Pedestrians]]></chapter>
+			<source><![CDATA[You must always be prepared to stop if you see a pedestrian who is about to step out in front of you. However, don't encourage jaywalking.]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers6.pdf" />
+		</question>
+
+		<question id="24">
+			<text><![CDATA[持白色手杖的行人应该被特别小心对待，因为]]></text>
+			<answers>
+				<answer><![CDATA[他们在过马路时可能会感到不确定]]></answer>
+				<distractor_1><![CDATA[他们会在任何地方横穿马路]]></distractor_1>
+				<distractor_2><![CDATA[他们不必遵守道路规则]]></distractor_2>
+				<distractor_3><![CDATA[他们听不到你的车辆声音]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 6: Sharing the Road; Pedestrians]]></chapter>
+			<source><![CDATA[Often, a blind or partially blind person will raise their cane when uncertain of crossing the street safely. That is your signal to stop.]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers6.pdf" />
+		</question>
+
+		<question id="25">
+			<text><![CDATA[如果前方发生问题，哪辆车没有逃生路线？]]></text>
+			<answers>
+				<answer><![CDATA[汽车A]]></answer>
+				<distractor_1><![CDATA[汽车B]]></distractor_1>
+				<distractor_2><![CDATA[汽车C]]></distractor_2>
+				<distractor_3><![CDATA[汽车D]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 5: See - Think - Do; Space Margins]]></chapter>
+			<source><![CDATA[Try to leave yourself an escape route when you are driving on a multi-lane highway. Then, if something happens in front, you can pull into another lane.]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers5.pdf" />
+			<image file="images/opkt/q25.png" />
+		</question>
+
+		<question id="26">
+			<text><![CDATA[汽车A]]></text>
+			<answers>
+				<answer><![CDATA[可能不会通过]]></answer>
+				<distractor_1><![CDATA[可以小心通过]]></distractor_1>
+				<distractor_2><![CDATA[可以在右侧超车]]></distractor_2>
+				<distractor_3><![CDATA[不可以左转越线]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 3: Signs, Signals and Road Markings]]></chapter>
+			<source><![CDATA[Yellow lines divide traffic moving in opposite directions. A broken line and a solid line mean you may pass only when it is safe and the broken line is on your side.]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers3.pdf" />
+			<image file="images/opkt/q26.png" />
+		</question>
+
+		<question id="27">
+			<text><![CDATA[这个标志的意思是]]></text>
+			<answers>
+				<answer><![CDATA[前方道路变窄]]></answer>
+				<distractor_1><![CDATA[前方分隔公路结束]]></distractor_1>
+				<distractor_2><![CDATA[前方车道结束]]></distractor_2>
+				<distractor_3><![CDATA[前方有狭窄的结构物]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 3: Signs, Signals and Road Markings]]></chapter>
+			<source><![CDATA[Most warning signs are yellow and diamond-shaped. They warn of possible hazards ahead.]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers3.pdf" />
+			<image file="images/opkt/q27.png" />
+		</question>
+
+		<question id="28">
+			<text><![CDATA[与你车辆周围的骑自行车者进行眼神交流]]></text>
+			<answers>
+				<answer><![CDATA[是一种良好的沟通方式]]></answer>
+				<distractor_1><![CDATA[可能导致他们失去平衡]]></distractor_1>
+				<distractor_2><![CDATA[可能会让你分心]]></distractor_2>
+				<distractor_3><![CDATA[没有用处]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 6: Sharing the Road; Cyclists]]></chapter>
+			<source><![CDATA[A cyclist often relies on eye contact as a means of communication. Make eye contact if you can. She or he is probably trying to anticipate your next move.]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers6.pdf" />
+		</question>
+
+		<question id="29">
+			<text><![CDATA[如果你注意到一个司机左右摇晃方向盘或没有原因地停车，你应该]]></text>
+			<answers>
+				<answer><![CDATA[给自己额外的空间]]></answer>
+				<distractor_1><![CDATA[跟随他们到达目的地]]></distractor_1>
+				<distractor_2><![CDATA[按喇叭]]></distractor_2>
+				<distractor_3><![CDATA[闪灯并超越他们]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 5: See - Think - Do; Hazard Perception]]></chapter>
+			<source><![CDATA[To avoid surprises, think well ahead and ask yourself what could possibly happen in the driving environment.]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers5.pdf" />
+		</question>
+
+		<question id="30">
+			<text><![CDATA[停在路边的公共交通巴士]]></text>
+			<answers>
+				<answer><![CDATA[可能会隐藏准备过马路的行人]]></answer>
+				<distractor_1><![CDATA[要求你停在它们后面]]></distractor_1>
+				<distractor_2><![CDATA[看不到会超越它们的车辆]]></distractor_2>
+				<distractor_3><![CDATA[在进入交通之前必须按喇叭]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 6: Sharing the Road; Public Transit Buses]]></chapter>
+			<source><![CDATA[Watch for buses that have stopped -- they may block your view of pedestrians about to cross the street, or they may be about to pull into traffic.]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers6.pdf" />
+		</question>
+
+		<question id="31">
+			<text><![CDATA[当从车道驶出驶入带有人行道的街道时，汽车A的驾驶员必须在进入街道之前做什么？]]></text>
+			<answers>
+				<answer><![CDATA[在人行道前停车]]></answer>
+				<distractor_1><![CDATA[准备停车，但如果没有识别到危险，就继续进入街道。]]></distractor_1>
+				<distractor_2><![CDATA[减速并谨慎前行]]></distractor_2>
+				<distractor_3><![CDATA[在进入街道前刚好停在人行道的后面]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 4: Rules of the Road; Right-of-Way at Intersections]]></chapter>
+			<source><![CDATA[When you are pulling out of a driveway, alley or parking lot onto a road, stop before the sidewalk or area where pedestrians may be walking.]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers4.pdf" />
+			<image file="images/opkt/q31.png" />
+		</question>
+
+		<question id="32">
+			<text><![CDATA[你的空间边距是指]]></text>
+			<answers>
+				<answer><![CDATA[你的车辆和其他道路使用者之间的距离]]></answer>
+				<distractor_1><![CDATA[你的车辆和你前面的车辆之间的距离]]></distractor_1>
+				<distractor_2><![CDATA[你的车辆和你后面的车辆之间的距离]]></distractor_2>
+				<distractor_3><![CDATA[你的车辆和路缘之间的距离]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 5: See - Think - Do; Space Margins]]></chapter>
+			<source><![CDATA[You must have room to move if you need it. Space margins include your space in front, behind, beside and your lane position.]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers5.pdf" />
+		</question>
+
+		<question id="33">
+			<text><![CDATA[驾驶过于靠近前面的车辆的一个危险是]]></text>
+			<answers>
+				<answer><![CDATA[你可能无法看到前方的情况]]></answer>
+				<distractor_1><![CDATA[你会挡住前面车辆的后视镜]]></distractor_1>
+				<distractor_2><![CDATA[你会迫使前面的车辆加速]]></distractor_2>
+				<distractor_3><![CDATA[你会处于前面车辆的盲点]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 5: See - Think - Do; Space Margins]]></chapter>
+			<source><![CDATA[Tailgating (following too closely behind the vehicle in front) is a major cause of crashes. If you tailgate, the vehicle in front can block your view of hazards ahead.]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers5.pdf" />
+		</question>
+
+		<question id="34">
+			<text><![CDATA[司机应该给骑自行车的人更多的空间，因为他们]]></text>
+			<answers>
+				<answer><![CDATA[可能会突然转向或变道]]></answer>
+				<distractor_1><![CDATA[经常会突然停车]]></distractor_1>
+				<distractor_2><![CDATA[经常会并排骑行]]></distractor_2>
+				<distractor_3><![CDATA[不必遵守同样的道路规则]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 6: Sharing the Road; Cyclists]]></chapter>
+			<source><![CDATA[Allow side margins - a significant number of crashes involving cyclists result from side-swiping. Make sure there is enough space if you want to pass a cyclist.]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers6.pdf" />
+		</question>
+
+		<question id="35">
+			<text><![CDATA[这辆车可能会]]></text>
+			<answers>
+				<answer><![CDATA[不可以超车，但可以左转越线]]></answer>
+				<distractor_1><![CDATA[可以超车，但不能左转越线]]></distractor_1>
+				<distractor_2><![CDATA[不可以超车或左转越线]]></distractor_2>
+				<distractor_3><![CDATA[可以超车并左转越线]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 3: Signs, Signals and Road Markings]]></chapter>
+			<source><![CDATA[Yellow lines divide traffic moving in opposite directions. A broken line and a solid line mean you may pass only when it is safe and the broken line is on your side.]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers3.pdf" />
+			<image file="images/opkt/q26.png" />
+		</question>
+
+		<question id="36">
+			<text><![CDATA[当卡车正在倒车时，你不应该从后面悄悄接近，因为]]></text>
+			<answers>
+				<answer><![CDATA[如果你进入其中一个盲区，会很危险]]></answer>
+				<distractor_1><![CDATA[它们的制动系统比汽车效果更差]]></distractor_1>
+				<distractor_2><![CDATA[它们比你的车辆承载更多的重量]]></distractor_2>
+				<distractor_3><![CDATA[卡车可能会产生过多的湍流]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 6: Sharing the Road; Large Vehicles]]></chapter>
+			<source><![CDATA[Never try to sneak behind a truck if it is backing into a loading bay or out of a driveway because you will enter one of the truck driver's blind spots and risk being hit.]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers6.pdf" />
+		</question>
+
+		<question id="37">
+			<text><![CDATA[你正在沿着一条多车道单向街道行驶。你在后视镜里看到一辆紧急车辆的灯光在闪烁。你应该]]></text>
+			<answers>
+				<answer><![CDATA[安全地移动到路的任意一侧并停车]]></answer>
+				<distractor_1><![CDATA[准备让路]]></distractor_1>
+				<distractor_2><![CDATA[减速并移动到路的任意一侧]]></distractor_2>
+				<distractor_3><![CDATA[立即停车]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 6: Sharing the Road; Emergency Vehicles]]></chapter>
+			<source><![CDATA[Usually the best thing to do is pull over to the right and stop (or to the left if you're driving in the left lane of a divided highway or on a one-way street).]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers6.pdf" />
+		</question>
+
+		<question id="38">
+			<text><![CDATA[车辆A的交通信号灯刚刚变绿。一辆带有闪烁灯光的救护车从后方驶来。车辆A应该怎么做？]]></text>
+			<answers>
+				<answer><![CDATA[向右转，为救护车让路。]]></answer>
+				<distractor_1><![CDATA[倒车并靠边停车。]]></distractor_1>
+				<distractor_2><![CDATA[按喇叭让车C靠边停车。]]></distractor_2>
+				<distractor_3><![CDATA[加速通过十字路口。]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 6: Sharing the Road; Emergency Vehicles]]></chapter>
+			<source><![CDATA[If you are stopped at an intersection and you are blocking the path of the emergency vehicle, you may have to turn the corner to get out of the way.]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers6.pdf" />
+			<image file="images/opkt/q38.png" />
+		</question>
+
+		<question id="39">
+			<text><![CDATA[你正在行驶在分隔的公路的左车道。你在后视镜里看到一辆带有闪烁灯光的紧急车辆。你应该]]></text>
+			<answers>
+				<answer><![CDATA[安全地移动到最近的路边并停车]]></answer>
+				<distractor_1><![CDATA[减速并移动到路的任意一侧]]></distractor_1>
+				<distractor_2><![CDATA[立即停车]]></distractor_2>
+				<distractor_3><![CDATA[准备让路]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 6: Sharing the Road; Emergency Vehicles]]></chapter>
+			<source><![CDATA[Usually the best thing to do is pull over to the right and stop (or to the left if you are driving in the left lane of a divided highway or on a one-way street).]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers6.pdf" />
+		</question>
+
+		<question id="40">
+			<text><![CDATA[在这个十字路口左转，车辆A应该]]></text>
+			<answers>
+				<answer><![CDATA[在转弯之前移动到左车道]]></answer>
+				<distractor_1><![CDATA[从中央车道转弯]]></distractor_1>
+				<distractor_2><![CDATA[从任何车道转弯]]></distractor_2>
+				<distractor_3><![CDATA[在转弯之前移动到右车道]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 4: Rules of the Road; Using Lanes Correctly]]></chapter>
+			<source><![CDATA[Before you make a turn, you need to get your vehicle into the correct lane. Then you need to end up in the correct lane when you complete your turn.]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers4.pdf" />
+			<image file="images/opkt/q40.png" />
+		</question>
+
+		<question id="41">
+			<text><![CDATA[在你停在红灯处之后，你可以]]></text>
+			<answers>
+				<answer><![CDATA[向右转或者向左转进入单行道，如果安全并且没有标志禁止]]></answer>
+				<distractor_1><![CDATA[直行通过]]></distractor_1>
+				<distractor_2><![CDATA[左转或右转]]></distractor_2>
+				<distractor_3><![CDATA[仅能右转]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 3: Signs, Signals and Road Markings]]></chapter>
+			<source><![CDATA[Watch for signs prohibiting you from making these turns on a red light.]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers3.pdf" />
+		</question>
+
+		<question id="42">
+			<text><![CDATA[在双车道道路上被超车时，你应该做好准备]]></text>
+			<answers>
+				<answer><![CDATA[减速并腾出空间，让他们能够安全超车]]></answer>
+				<distractor_1><![CDATA[加速以防止他们超车]]></distractor_1>
+				<distractor_2><![CDATA[始终保持你的速度]]></distractor_2>
+				<distractor_3><![CDATA[在路肩上行驶时保持你的速度]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 4: Rules of the Road; Passing]]></chapter>
+			<source><![CDATA[]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers4.pdf" />
+		</question>
+
+		<question id="43">
+			<text><![CDATA[汽车A的驾驶员应该怎么做？]]></text>
+			<answers>
+				<answer><![CDATA[减速并停车。]]></answer>
+				<distractor_1><![CDATA[加速以在行人踏上人行横道前通过。]]></distractor_1>
+				<distractor_2><![CDATA[按喇叭警告行人。]]></distractor_2>
+				<distractor_3><![CDATA[减速以防行人踏入人行横道。]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 6: Sharing the Road; Pedestrians]]></chapter>
+			<source><![CDATA[You must yield to pedestrians in marked crosswalks, if the pedestrian is close to your half of the road.]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers6.pdf" />
+			<image file="images/opkt/q43.png" />
+		</question>
+
+		<question id="44">
+			<text><![CDATA[在这个交通环岛中，车辆A的驾驶员想要沿B街前行。正确的路径是]]></text>
+			<answers>
+				<answer><![CDATA[让交通环岛内的车辆优先通行，在安全的情况下右转，并沿B路径向右驶出]]></answer>
+				<distractor_1><![CDATA[等到摩托车C通过后立即左转]]></distractor_1>
+				<distractor_2><![CDATA[在交通环岛内完整绕行一圈后再退出]]></distractor_2>
+				<distractor_3><![CDATA[等待交通环岛内没有车辆后，然后左转]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 4: Rules of the Road; Right-of-Way at Intersections]]></chapter>
+			<source><![CDATA[All vehicles must turn right to enter a traffic circle and right again to leave it.]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers4.pdf" />
+			<image file="images/opkt/q44.png" />
+		</question>
+
+		<question id="45">
+			<text><![CDATA[汽车A和汽车B同时到达了停车标志。谁应该先行？]]></text>
+			<answers>
+				<answer><![CDATA[汽车B。]]></answer>
+				<distractor_1><![CDATA[汽车A。]]></distractor_1>
+				<distractor_2><![CDATA[两辆车可以同时行驶。]]></distractor_2>
+				<distractor_3><![CDATA[两辆车都应该等待汽车C到达路口。]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 4: Rules of the Road; Right-of-Way at Intersections]]></chapter>
+			<source><![CDATA[If two vehicles arrive at a four-way stop at the same time, the one on the right should go first.]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers4.pdf" />
+			<image file="images/opkt/q45.png" />
+		</question>
+
+		<question id="46">
+			<text><![CDATA[汽车B先到达了停车标志。谁应该先行？]]></text>
+			<answers>
+				<answer><![CDATA[汽车B。]]></answer>
+				<distractor_1><![CDATA[汽车A。]]></distractor_1>
+				<distractor_2><![CDATA[汽车B应该示意汽车A通过。]]></distractor_2>
+				<distractor_3><![CDATA[两辆车可以同时行驶。]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 4: Rules of the Road; Right-of-Way at Intersections]]></chapter>
+			<source><![CDATA[The first vehicle to arrive at the intersection of a four-way stop and come to a complete stop should go first.]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers4.pdf" />
+			<image file="images/opkt/q46.png" />
+		</question>
+
+		<question id="47">
+			<text><![CDATA[你是汽车A的驾驶员，想要右转。哪种是最好的看-思考-行动策略？]]></text>
+			<answers>
+				<answer><![CDATA[我看到自行车B正在靠近；我想，“当我想要转弯时，自行车可能已经在转角处”；我减速。]]></answer>
+				<distractor_1><![CDATA[我看到前面的转角；我想，“我将迟到会议了”；我加速并转弯。]]></distractor_1>
+				<distractor_2><![CDATA[我看到自行车B；我想，“我可以先到转角”；我加速并转弯。]]></distractor_2>
+				<distractor_3><![CDATA[我看到自行车B；我想，“我有优先通行权”；我按喇叭并转弯。]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 6: Sharing the Road; Cyclists]]></chapter>
+			<source><![CDATA[Yield to cyclists as you would to any other vehicle. If you have the right-of-way at an intersection, proceed if it is safe. ]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers6.pdf" />
+			<image file="images/opkt/q47.png" />
+		</question>
+
+		<question id="48">
+			<text><![CDATA[交通信号灯刚刚变成黄色。周围没有其他车辆。车辆A应该]]></text>
+			<answers>
+				<answer><![CDATA[减速并停车，因为这样做是安全的]]></answer>
+				<distractor_1><![CDATA[加速通过，以免它变成红色]]></distractor_1>
+				<distractor_2><![CDATA[扫描路口，保持速度，直接通过]]></distractor_2>
+				<distractor_3><![CDATA[停下来，然后通过红灯，因为没有其他车辆]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 3: Signs, Signals and Road Markings]]></chapter>
+			<source><![CDATA[Yellow means that the signal is about the turn red. You must stop before entering the intersection unless you cannot safely stop in time.]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers3.pdf" />
+			<image file="images/opkt/q48.png" />
+		</question>
+
+		<question id="49">
+			<text><![CDATA[手势信号]]></text>
+			<answers>
+				<answer><![CDATA[在转向灯难以看清时应该使用]]></answer>
+				<distractor_1><![CDATA[在好天气下应该始终使用]]></distractor_1>
+				<distractor_2><![CDATA[仅由骑自行车和摩托车的人使用]]></distractor_2>
+				<distractor_3><![CDATA[只会让其他人困惑，不应该使用]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 5: See - Think - Do; Communication]]></chapter>
+			<source><![CDATA[There are times when an automatic turn signal is hard to see in these situations, use a hand signal in addition to the turn signal.]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers5.pdf" />
+		</question>
+
+		<question id="50">
+			<text><![CDATA[在进行左转之前，驾驶员应该]]></text>
+			<answers>
+				<answer><![CDATA[给对向行驶的车辆让路，并等待一个安全的间隙]]></answer>
+				<distractor_1><![CDATA[向后面的车辆示意让行]]></distractor_1>
+				<distractor_2><![CDATA[确保后面没有车辆]]></distractor_2>
+				<distractor_3><![CDATA[等待对向驾驶员示意让你通过]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 4: Rules of the Road; Right-of-Way at Intersections]]></chapter>
+			<source><![CDATA[When making a left turn on a green light, you must yield to oncoming traffic and wait for a safe gap before you turn.]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers4.pdf" />
+		</question>
+
+		<question id="51">
+			<text><![CDATA[当你在左侧看到一条实线时，意味着]]></text>
+			<answers>
+				<answer><![CDATA[你不能变换车道]]></answer>
+				<distractor_1><![CDATA[它是分隔不同方向行驶的车辆的]]></distractor_1>
+				<distractor_2><![CDATA[你可以小心超车。]]></distractor_2>
+				<distractor_3><![CDATA[只有公共交通车辆可以超车。]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 3: Signs, Signals and Road Markings]]></chapter>
+			<source><![CDATA[White lines are used to separate lanes of traffic moving in the same direction. A solid line means do not change lanes.]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers3.pdf" />
+		</question>
+
+		<question id="52">
+			<text><![CDATA[汽车A的驾驶员应该]]></text>
+			<answers>
+				<answer><![CDATA[以交通流速度进入高速公路]]></answer>
+				<distractor_1><![CDATA[尽快进入最左车道]]></distractor_1>
+				<distractor_2><![CDATA[比交通流速度更快地行驶以更好地操控]]></distractor_2>
+				<distractor_3><![CDATA[在进入高速公路前减速]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 4: Rules of the Road; Highway or Freeway Entrances and Exits]]></chapter>
+			<source><![CDATA[A highway entrance gives you a short distance to match your speed to the vehicles already on the highway.]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers4.pdf" />
+			<image file="images/opkt/q52.png" />
+		</question>
+
+		<question id="53">
+			<text><![CDATA[在加速车道上，驶入高速公路之前，驾驶员应该]]></text>
+			<answers>
+				<answer><![CDATA[加速以匹配交通速度。]]></answer>
+				<distractor_1><![CDATA[打信号并融入交通流。]]></distractor_1>
+				<distractor_2><![CDATA[只看向前方。]]></distractor_2>
+				<distractor_3><![CDATA[观察后视镜。]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 4: Rules of the Road; Highway or Freeway Entrances and Exits]]></chapter>
+			<source><![CDATA[The acceleration lane is divided from the rest of the roadway by a solid white line. Use this lane to match your speed to the speed of the traffic on the freeway.]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers4.pdf" />
+		</question>
+
+		<question id="54">
+			<text><![CDATA[当退出高速公路时，你应该减速]]></text>
+			<answers>
+				<answer><![CDATA[当你已经进入出口车道之后。]]></answer>
+				<distractor_1><![CDATA[在你进入出口车道之前。]]></distractor_1>
+				<distractor_2><![CDATA[在你打开转向灯表示你要驶出高速公路之前。]]></distractor_2>
+				<distractor_3><![CDATA[只有在你后面有车辆时。]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 4: Rules of the Road]]></chapter>
+			<source><![CDATA[Signal your intention to turn off the highway, maintaining your speed until you enter the exit lane. Then slow down gradually as you prepare to enter roads with lower speed limits.]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers4.pdf" />
+		</question>
+
+		<question id="55">
+			<text><![CDATA[这个标志告诉你]]></text>
+			<answers>
+				<answer><![CDATA[在理想条件下你可以行驶的最快速度]]></answer>
+				<distractor_1><![CDATA[前方有更快的速度限制]]></distractor_1>
+				<distractor_2><![CDATA[这条路在任何条件下的理想速度]]></distractor_2>
+				<distractor_3><![CDATA[除非你在超车，否则是最高速度]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 3: Signs, Signals and Road Markings]]></chapter>
+			<source><![CDATA[Regulatory signs tell you about driving laws and regulations. It is an offence under the B.C. Motor Vehicle Act to disregard them.]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers3.pdf" />
+			<image file="images/opkt/q55.png" />
+		</question>
+
+		<question id="56">
+			<text><![CDATA[这个标志的意思是：]]></text>
+			<answers>
+				<answer><![CDATA[不要超车]]></answer>
+				<distractor_1><![CDATA[前方只有单车道]]></distractor_1>
+				<distractor_2><![CDATA[这条路只允许单向交通]]></distractor_2>
+				<distractor_3><![CDATA[前方有分隔的道路]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 3: Signs, Signals and Road Markings]]></chapter>
+			<source><![CDATA[Regulatory signs tell you about driving laws and regulations. It is an offence under the B.C. Motor Vehicle Act to disregard them.]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers3.pdf" />
+			<image file="images/opkt/q56.png" />
+		</question>
+
+		<question id="57">
+			<text><![CDATA[这个标志警示，]]></text>
+			<answers>
+				<answer><![CDATA[前方有学校巴士停靠]]></answer>
+				<distractor_1><![CDATA[前方会有对向车辆的灯在闪烁]]></distractor_1>
+				<distractor_2><![CDATA[前方有一个打开危险警示灯的车辆]]></distractor_2>
+				<distractor_3><![CDATA[前方是一个消防车区域]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 3: Signs, Signals and Road Markings]]></chapter>
+			<source><![CDATA[Most warning signs are yellow and diamond-shaped. They warn of possible hazards ahead.]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers3.pdf" />
+			<image file="images/opkt/q57.png" />
+		</question>
+
+		<question id="58">
+			<text><![CDATA[这个标志意味着在这条车道上，你必须]]></text>
+			<answers>
+				<answer><![CDATA[只能左转]]></answer>
+				<distractor_1><![CDATA[可以左转或直行]]></distractor_1>
+				<distractor_2><![CDATA[只能右转]]></distractor_2>
+				<distractor_3><![CDATA[不能左转]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 3: Signs, Signals and Road Markings]]></chapter>
+			<source><![CDATA[Lane use signs are signs showing which lanes may be used to turn or go straight and are mounted above the lane or at the side of the lane before the intersection.]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers3.pdf" />
+			<image file="images/opkt/q58.png" />
+		</question>
+
+		<question id="59">
+			<text><![CDATA[没有下方速度标签的这个标志意味着]]></text>
+			<answers>
+				<answer><![CDATA[学校区域 - 当有学生在场时减速]]></answer>
+				<distractor_1><![CDATA[前方有人行横道]]></distractor_1>
+				<distractor_2><![CDATA[前方有学校过街区]]></distractor_2>
+				<distractor_3><![CDATA[你必须准备在由过街警察控制的人行横道处停车]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 3: Signs, Signals and Road Markings; School, Playground and Crosswalk Signs]]></chapter>
+			<source><![CDATA[]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers3.pdf" />
+			<image file="images/opkt/q59.png" />
+		</question>
+
+		<question id="60">
+			<text><![CDATA[尽管诸如雨水或冰等环境因素会导致打滑，但打滑的主要原因是]]></text>
+			<answers>
+				<answer><![CDATA[驾驶技能不佳]]></answer>
+				<distractor_1><![CDATA[汽车的机械状况]]></distractor_1>
+				<distractor_2><![CDATA[轮胎爆裂]]></distractor_2>
+				<distractor_3><![CDATA[路面湿滑]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 8: Emergency Strategies; Skid Control]]></chapter>
+			<source><![CDATA[Environmental elements like rain and ice contribute to skidding, but poor driving skills are the main cause of skidding. The way to avoid skids is to use your see-think-do skills.]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers8.pdf" />
+		</question>
+
+		<question id="61">
+			<text><![CDATA[这个标志意味着]]></text>
+			<answers>
+				<answer><![CDATA[这条车道只允许公交车和高乘员车辆]]></answer>
+				<distractor_1><![CDATA[这条车道只允许公交车]]></distractor_1>
+				<distractor_2><![CDATA[这是只有公交车和出租车才能使用的区域]]></distractor_2>
+				<distractor_3><![CDATA[仅限公共交通车道]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 3: Signs, Signals and Road Markings]]></chapter>
+			<source><![CDATA[A white diamond painted on the road surface marks reserved lanes. Reserved lane signs are also placed over or beside lanes that are reserved for certain vehicles.]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers3.pdf" />
+			<image file="images/opkt/q61.png" />
+		</question>
+
+		<question id="62">
+			<text><![CDATA[这个标志的意思是]]></text>
+			<answers>
+				<answer><![CDATA[前方有停车标志]]></answer>
+				<distractor_1><![CDATA[从这个停车标志开始行驶]]></distractor_1>
+				<distractor_2><![CDATA[如有必要，前方准备停车]]></distractor_2>
+				<distractor_3><![CDATA[在停车后前方禁止转弯]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 3: Signs, Signals and Road Markings]]></chapter>
+			<source><![CDATA[Most warning signs are yellow and diamond-shaped. They warn of possible hazards ahead.]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers3.pdf" />
+			<image file="images/opkt/q62.png" />
+		</question>
+
+		<question id="63">
+			<text><![CDATA[如果你的车开始打滑，正确的反应是什么？]]></text>
+			<answers>
+				<answer><![CDATA[松开油门并向你想要去的方向转动方向盘。]]></answer>
+				<distractor_1><![CDATA[向打滑的方向转动方向盘。]]></distractor_1>
+				<distractor_2><![CDATA[紧急刹车以尽快停车。]]></distractor_2>
+				<distractor_3><![CDATA[换到空档，直到打滑停止前不要转动方向盘。]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 8: Emergency Strategies; Skid Control]]></chapter>
+			<source><![CDATA[You should be able to avoid skidding by making safe choices in the first place. In slippery conditions, slow down.]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers8.pdf" />
+		</question>
+
+		<question id="64">
+			<text><![CDATA[这个标志警示]]></text>
+			<answers>
+				<answer><![CDATA[前方双向交通]]></answer>
+				<distractor_1><![CDATA[前方分隔式高速公路]]></distractor_1>
+				<distractor_2><![CDATA[禁止超车]]></distractor_2>
+				<distractor_3><![CDATA[允许超车]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 3: Signs, Signals and Road Markings]]></chapter>
+			<source><![CDATA[Most warning signs are yellow and diamond-shaped. They warn of possible hazards ahead.]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers3.pdf" />
+			<image file="images/opkt/q64.png" />
+		</question>
+
+		<question id="65">
+			<text><![CDATA[这个标志的意思是]]></text>
+			<answers>
+				<answer><![CDATA[前方有铁路道口-准备停车]]></answer>
+				<distractor_1><![CDATA[没有警示灯]]></distractor_1>
+				<distractor_2><![CDATA[你可以直接驶过铁路道口]]></distractor_2>
+				<distractor_3><![CDATA[铁路道口已不再使用]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 3: Signs, Signals and Road Markings]]></chapter>
+			<source><![CDATA[Public railway and highway crossings are indicated with signs or pavement markings and may also have mechanical or electrical warning devices for your protection.]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers3.pdf" />
+			<image file="images/opkt/q65.png" />
+		</question>
+
+		<question id="66">
+			<text><![CDATA[这个标志的意思是：]]></text>
+			<answers>
+				<answer><![CDATA[可能有自行车行驶在道路上]]></answer>
+				<distractor_1><![CDATA[前方有自行车专用车道]]></distractor_1>
+				<distractor_2><![CDATA[禁止自行车通行]]></distractor_2>
+				<distractor_3><![CDATA[不要超越自行车]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 3: Signs, Signals and Road Markings]]></chapter>
+			<source><![CDATA[Most warning signs are yellow and diamond-shaped. They warn of possible hazards ahead.]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers3.pdf" />
+			<image file="images/opkt/q66.png" />
+		</question>
+
+		<question id="67">
+			<text><![CDATA[这个标志的意思是]]></text>
+			<answers>
+				<answer><![CDATA[前方有陡坡-减速或换挡]]></answer>
+				<distractor_1><![CDATA[前方有逃生车道]]></distractor_1>
+				<distractor_2><![CDATA[前方有卡车停车场]]></distractor_2>
+				<distractor_3><![CDATA[前方有卡车通行路线]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 3: Signs, Signals and Road Markings]]></chapter>
+			<source><![CDATA[Most warning signs are yellow and diamond-shaped. They warn of possible hazards ahead.]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers3.pdf" />
+			<image file="images/opkt/q67.png" />
+		</question>
+
+		<question id="68">
+			<text><![CDATA[这个标志的意思是]]></text>
+			<answers>
+				<answer><![CDATA[前方有颠簸路段或坑洼路面；减速。]]></answer>
+				<distractor_1><![CDATA[前方是工业区域。]]></distractor_1>
+				<distractor_2><![CDATA[前方有陡坡。]]></distractor_2>
+				<distractor_3><![CDATA[危险；前方道路尽头。]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 3: Signs, Signals and Road Markings]]></chapter>
+			<source><![CDATA[Most warning signs are yellow and diamond-shaped. They warn of possible hazards ahead.]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers3.pdf" />
+			<image file="images/opkt/q68.png" />
+		</question>
+
+		<question id="69">
+			<text><![CDATA[这个标志的意思是]]></text>
+			<answers>
+				<answer><![CDATA[障碍物-靠右或靠左]]></answer>
+				<distractor_1><![CDATA[前方道路变窄]]></distractor_1>
+				<distractor_2><![CDATA[前方有人行横道]]></distractor_2>
+				<distractor_3><![CDATA[只能直行]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 3: Signs, Signals and Road Markings]]></chapter>
+			<source><![CDATA[Most warning signs are yellow and diamond-shaped. They warn of possible hazards ahead.]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers3.pdf" />
+			<image file="images/opkt/q69.png" />
+		</question>
+
+		<question id="70">
+			<text><![CDATA[这个标志的意思是]]></text>
+			<answers>
+				<answer><![CDATA[障碍物-靠左]]></answer>
+				<distractor_1><![CDATA[前方有障碍物，请靠右行驶]]></distractor_1>
+				<distractor_2><![CDATA[禁止通行]]></distractor_2>
+				<distractor_3><![CDATA[危险；前方道路结束]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 3: Signs, Signals and Road Markings]]></chapter>
+			<source><![CDATA[Most warning signs are yellow and diamond-shaped. They warn of possible hazards ahead.]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers3.pdf" />
+			<image file="images/opkt/q70.png" />
+		</question>
+
+		<question id="71">
+			<text><![CDATA[This sign means]]></text>
+			<answers>
+				<answer><![CDATA[only buses may go on this signal]]></answer>
+				<distractor_1><![CDATA[public transit buses may not proceed]]></distractor_1>
+				<distractor_2><![CDATA[all traffic must stop, emergency vehicles approaching]]></distractor_2>
+				<distractor_3><![CDATA[yield to public transit buses, then proceed]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 3: Signs, Signals and Road Markings]]></chapter>
+			<source><![CDATA[Traffic lights are used to help organize the flow of traffic. The transit priority signal -- steady white rectangular light -- means only buses may go on this signal.]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers3.pdf" />
+			<image file="images/opkt/q71.png" />
+		</question>
+
+		<question id="72">
+			<text><![CDATA[这个车道上的信号表示]]></text>
+			<answers>
+				<answer><![CDATA[移出这条车道，进入有绿箭头的车道]]></answer>
+				<distractor_1><![CDATA[不要在这条车道上行驶]]></distractor_1>
+				<distractor_2><![CDATA[这条车道正在施工中]]></distractor_2>
+				<distractor_3><![CDATA[这条车道即将开放]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 3: Signs, Signals and Road Markings]]></chapter>
+			<source><![CDATA[Lane control signals are placed over lanes to indicate which ones are open for driving. ]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers3.pdf" />
+			<image file="images/opkt/q72.png" />
+		</question>
+
+		<question id="73">
+			<text><![CDATA[这个标志的意思是：]]></text>
+			<answers>
+				<answer><![CDATA[学校人行横道，请礼让行人；如果有交通指挥员，请按照指示行驶。]]></answer>
+				<distractor_1><![CDATA[人行横道]]></distractor_1>
+				<distractor_2><![CDATA[学校区域 - 减速]]></distractor_2>
+				<distractor_3><![CDATA[游乐区域]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 3: Signs, Signals and Road Markings]]></chapter>
+			<source><![CDATA[School, playground and crosswalk signs tell you the rules to follow in areas where you need to be extra cautious.]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers3.pdf" />
+			<image file="images/opkt/q73.png" />
+		</question>
+
+		<question id="74">
+			<text><![CDATA[如果你在驾驶前感到愤怒或不安，你应该]]></text>
+			<answers>
+				<answer><![CDATA[在驾驶前冷静下来]]></answer>
+				<distractor_1><![CDATA[在驾驶时不要想着什么让你生气的事情]]></distractor_1>
+				<distractor_2><![CDATA[在驾驶时深呼吸，恢复自控力]]></distractor_2>
+				<distractor_3><![CDATA[在驾驶时专心并谨慎]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 7: Personal Strategies; Dangerous Emotions]]></chapter>
+			<source><![CDATA[Controlling emotions: take a couple of moments to calm yourself down and leave your problems behind before you start to drive. ]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers7.pdf" />
+		</question>
+
+		<question id="75">
+			<text><![CDATA[导致驾驶者愤怒和沮丧的常见原因是]]></text>
+			<answers>
+				<answer><![CDATA[对驾驶环境不耐烦]]></answer>
+				<distractor_1><![CDATA[他人糟糕的驾驶行为]]></distractor_1>
+				<distractor_2><![CDATA[动力不足的车辆]]></distractor_2>
+				<distractor_3><![CDATA[路况不佳]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 7: Personal Strategies; Dangerous Emotions]]></chapter>
+			<source><![CDATA[Crowded traffic conditions and high-speed freeway driving often cause stress. Being slowed down by other traffic when you're in a hurry produces tension.]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers7.pdf" />
+		</question>
+
+		<question id="76">
+			<text><![CDATA[以下哪种方法不适合确定你的驾驶态度？]]></text>
+			<answers>
+				<answer><![CDATA[将所有驾驶错误归咎于他人。]]></answer>
+				<distractor_1><![CDATA[询问你信任的人对你的驾驶提出反馈意见。]]></distractor_1>
+				<distractor_2><![CDATA[如果你差点发生事故，问自己为什么会这样。]]></distractor_2>
+				<distractor_3><![CDATA[询问你所观察到的糟糕驾驶是否是你自己的。]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 7: Personal Strategies; Taking Risks]]></chapter>
+			<source><![CDATA[Do you find yourself always blaming others for bad driving? If so, then ask yourself: "Is it really their fault or could it be me?"]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers7.pdf" />
+		</question>
+
+		<question id="77">
+			<text><![CDATA[以下哪项最有可能使其他驾驶员变得激进？]]></text>
+			<answers>
+				<answer><![CDATA[当车队排成一列排在你后面时不让路。]]></answer>
+				<distractor_1><![CDATA[让行]]></distractor_1>
+				<distractor_2><![CDATA[只占用一个停车位。]]></distractor_2>
+				<distractor_3><![CDATA[为并线车辆让路。]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 7: Personal Strategies; Preventing Aggression]]></chapter>
+			<source><![CDATA[Sharing the road means considering other drivers. What messages do your actions give to other drivers?]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers7.pdf" />
+		</question>
+
+		<question id="78">
+			<text><![CDATA[当其他驾驶员按喇叭或对你大喊时，]]></text>
+			<answers>
+				<answer><![CDATA[评估情况并依靠你自己对安全驾驶规范的知识。]]></answer>
+				<distractor_1><![CDATA[你应该开得更慢]]></distractor_1>
+				<distractor_2><![CDATA[还嘴]]></distractor_2>
+				<distractor_3><![CDATA[按照他们想要的做]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 7: Personal Strategies; Preventing Aggression]]></chapter>
+			<source><![CDATA[If you use your road sense, allow plenty of space and give others the right-of-way, you can help prevent situations that cause aggression.]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers7.pdf" />
+		</question>
+
+		<question id="79">
+			<text><![CDATA[如果你不知道其他驾驶员打算做什么，]]></text>
+			<answers>
+				<answer><![CDATA[礼让行驶以确保安全]]></answer>
+				<distractor_1><![CDATA[按喇叭或对他们大喊]]></distractor_1>
+				<distractor_2><![CDATA[迅速行使你的通行权]]></distractor_2>
+				<distractor_3><![CDATA[向他们闪高亮远光灯]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 7: Personal Strategies; Preventing Aggression]]></chapter>
+			<source><![CDATA[Sharing the road means considering other drivers. What messages do your actions give to other drivers?]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers7.pdf" />
+		</question>
+
+		<question id="80">
+			<text><![CDATA[如果你在驾驶时感到困倦，你应该，]]></text>
+			<answers>
+				<answer><![CDATA[在安全的地方停车，锁上车门，小睡片刻]]></answer>
+				<distractor_1><![CDATA[减速并小心驾驶]]></distractor_1>
+				<distractor_2><![CDATA[调高收音机音量并保持速度]]></distractor_2>
+				<distractor_3><![CDATA[打开车窗并保持速度]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 7: Personal Strategies; Staying Awake]]></chapter>
+			<source><![CDATA[Being tired is one of the leading causes of crashes. Fatigue affects all stages of the See-Think-Do strategy. ]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers7.pdf" />
+		</question>
+
+		<question id="81">
+			<text><![CDATA[每年在不列颠哥伦比亚省有超过30%的交通事故死亡案件中涉及哪个因素？]]></text>
+			<answers>
+				<answer><![CDATA[酒精。]]></answer>
+				<distractor_1><![CDATA[疲劳。]]></distractor_1>
+				<distractor_2><![CDATA[不打灯信号。]]></distractor_2>
+				<distractor_3><![CDATA[车辆故障。]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 7: Personal Strategies]]></chapter>
+			<source><![CDATA[In an average year in B.C., over 100 people are killed and several thousand injured in police-reported collisions where alcohol was involved.]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers7.pdf" />
+		</question>
+
+		<question id="82">
+			<text><![CDATA[如果你以高速进入弯道，为什么在弯道之前抬起油门是个好主意？]]></text>
+			<answers>
+				<answer><![CDATA[这是一个很好的策略，在弯道中不使用刹车来帮助你减速。]]></answer>
+				<distractor_1><![CDATA[在弯道中总是需要刹车]]></distractor_1>
+				<distractor_2><![CDATA[你的脚不应该在弯道中踩油门]]></distractor_2>
+				<distractor_3><![CDATA[在弯道中你将需要动力加速。]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 5: See - Think - Do; Speed Control]]></chapter>
+			<source><![CDATA[]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers5.pdf" />
+		</question>
+
+		<question id="83">
+			<text><![CDATA[惯性是]]></text>
+			<answers>
+				<answer><![CDATA[移动物体继续沿直线向前运动的倾向]]></answer>
+				<distractor_1><![CDATA[将所有事物拉向地球的力量]]></distractor_1>
+				<distractor_2><![CDATA[物体平衡重量的点]]></distractor_2>
+				<distractor_3><![CDATA[车辆的重量]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 5: See - Think - Do; Speed Control]]></chapter>
+			<source><![CDATA[When you go around a curve, inertia tries to keep you going in a straight line. The faster you are going, the greater the force of inertia.]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers5.pdf" />
+		</question>
+
+		<question id="84">
+			<text><![CDATA[如果你以过快的速度转弯，惯性可能会导致你的车辆]]></text>
+			<answers>
+				<answer><![CDATA[保持直线并驶离道路]]></answer>
+				<distractor_1><![CDATA[加速]]></distractor_1>
+				<distractor_2><![CDATA[无法控制地颤抖]]></distractor_2>
+				<distractor_3><![CDATA[锁住刹车]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 5: See - Think - Do; Speed Control]]></chapter>
+			<source><![CDATA[When you go around a curve, inertia tries to keep you going in a straight line. The faster you are going, the greater the force of inertia.]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers5.pdf" />
+		</question>
+
+		<question id="85">
+			<text><![CDATA[以下哪项不太可能导致车辆打滑？]]></text>
+			<answers>
+				<answer><![CDATA[以适合道路条件的速度行驶]]></answer>
+				<distractor_1><![CDATA[以过快的速度转弯。]]></distractor_1>
+				<distractor_2><![CDATA[驾驶技能不佳。]]></distractor_2>
+				<distractor_3><![CDATA[突然改变方向。]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 8: Emergency Strategies; Skid Control]]></chapter>
+			<source><![CDATA[Skids happen when drivers slam on the brakes and steer at the same time, go around a corner too fast or accelerate suddenly.]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers8.pdf" />
+		</question>
+
+		<question id="86">
+			<text><![CDATA[防抱死制动系统（ABS）与普通制动系统不同。 使用ABS进行紧急制动涉及]]></text>
+			<answers>
+				<answer><![CDATA[挤压刹车并保持刹车，直到完全停下来]]></answer>
+				<distractor_1><![CDATA[持续强力地泵动刹车以停车]]></distractor_1>
+				<distractor_2><![CDATA[永远不完全停下来]]></distractor_2>
+				<distractor_3><![CDATA[在强力泵动刹车和轻轻泵动之间切换]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 5: See - Think - Do; Emergency Braking]]></chapter>
+			<source><![CDATA[In an emergency situation, drivers using ABS should apply continuous, firm, hard pressure to the brake pedal until the vehicle stops.]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers5.pdf" />
+		</question>
+
+		<question id="87">
+			<text><![CDATA[如果一辆车是手动挡，在坡道上离合器踩“进”时滑行]]></text>
+			<answers>
+				<answer><![CDATA[是不安全和违法的]]></answer>
+				<distractor_1><![CDATA[是使用刹车的一个好的替代方案]]></distractor_1>
+				<distractor_2><![CDATA[在良好的天气条件下是可以的]]></distractor_2>
+				<distractor_3><![CDATA[给你更多的车辆控制]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 5: See - Think - Do; Speed Control]]></chapter>
+			<source><![CDATA[It is illegal to coast downhill in neutral or with the clutch in. You need to be in gear to safely control your vehicle.]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers5.pdf" />
+		</question>
+
+		<question id="88">
+			<text><![CDATA[降雨开始时可能导致道路特别滑的原因是因为]]></text>
+			<answers>
+				<answer><![CDATA[水与路面上的油混合]]></answer>
+				<distractor_1><![CDATA[你的车轮变冷]]></distractor_1>
+				<distractor_2><![CDATA[水迅速降低了路面温度]]></distractor_2>
+				<distractor_3><![CDATA[水迅速清洗了道路]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 8: Emergency Strategies; Loss of Traction]]></chapter>
+			<source><![CDATA[Rain makes the road surface slippery, especially during the beginning of a rainfall. The rain mixes with the oil on the road to create a slippery, oily film.]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers8.pdf" />
+		</question>
+
+		<question id="89">
+			<text><![CDATA[发生水上滑行时]]></text>
+			<answers>
+				<answer><![CDATA[当你的车轮漂浮在一层水膜上，并且与路面失去了牵引力]]></answer>
+				<distractor_1><![CDATA[当路面非常不平整时]]></distractor_1>
+				<distractor_2><![CDATA[只有当你在深水中行驶并且车子被抬起时]]></distractor_2>
+				<distractor_3><![CDATA[只有当雨下得很大时]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 8: Emergency Strategies; Loss of Traction]]></chapter>
+			<source><![CDATA[In a hydroplaning situation the driver instantly loses control of steering and braking. It can happen in rain or standing water.]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers8.pdf" />
+		</question>
+
+		<question id="90">
+			<text><![CDATA[以下哪项不是夜间驾驶的好策略？]]></text>
+			<answers>
+				<answer><![CDATA[保持与前方车辆更近，以便更清楚地看到它们的尾灯。]]></answer>
+				<distractor_1><![CDATA[调整后视镜以适应夜间驾驶。]]></distractor_1>
+				<distractor_2><![CDATA[除了仪表板之外，将内部灯光关闭。]]></distractor_2>
+				<distractor_3><![CDATA[增加跟车距离。]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 8: Emergency Strategies; Overdriving the Headlights]]></chapter>
+			<source><![CDATA[Strategies for night driving also include glancing to the right edge of the road to avoid glare from oncoming lights.]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers8.pdf" />
+		</question>
+
+		<question id="91">
+			<text><![CDATA[在恶劣天气驾驶时，你应该通过以下方式让其他人更容易看到你的车辆]]></text>
+			<answers>
+				<answer><![CDATA[打开近光灯]]></answer>
+				<distractor_1><![CDATA[打开停车灯]]></distractor_1>
+				<distractor_2><![CDATA[打开紧急闪光灯]]></distractor_2>
+				<distractor_3><![CDATA[闪动远光灯]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 8: Emergency Strategies; Using the Headlights; Loss of Visibility]]></chapter>
+			<source><![CDATA[In bad weather, you may have to pull over and stop if necessary until the visibility improves.]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers8.pdf" />
+		</question>
+
+		<question id="92">
+			<text><![CDATA[如果你的车辆在繁忙的高速公路上抛锚，你不应该]]></text>
+			<answers>
+				<answer><![CDATA[试图在路边修理你的车辆]]></answer>
+				<distractor_1><![CDATA[留在车辆旁边，把引擎盖打开]]></distractor_1>
+				<distractor_2><![CDATA[设置路边标志或警示三角牌]]></distractor_2>
+				<distractor_3><![CDATA[打开危险警示灯]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 8: Emergency Strategies; Engine Problems]]></chapter>
+			<source><![CDATA[If your engine ever fails, signal and steer to the edge of the road, turn on your hazard lights, stay with your vehicle, put an S.O.S. notice in your windshield.]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers8.pdf" />
+		</question>
+
+		<question id="93">
+			<text><![CDATA[在无法避免的情况下，即将撞到一只大动物时放松刹车]]></text>
+			<answers>
+				<answer><![CDATA[减少了它冲破挡风玻璃的机会]]></answer>
+				<distractor_1><![CDATA[最大限度地减少了对你车辆的损坏]]></distractor_1>
+				<distractor_2><![CDATA[减少了对动物的伤害]]></distractor_2>
+				<distractor_3><![CDATA[阻止了车辆打滑]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 8: Emergency Strategies; Animals on the Road]]></chapter>
+			<source><![CDATA[If the animal is large and you can't stop in time, brake firmly and steer to strike the animal at an angle. Let up on the brake pedal just before hitting the animal.]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers8.pdf" />
+		</question>
+
+		<question id="94">
+			<text><![CDATA[你在车A中，交叉口对面有一辆大卡车也在转弯。在哪个位置最难看到任何危险？]]></text>
+			<answers>
+				<answer><![CDATA[在卡车的后方和右侧]]></answer>
+				<distractor_1><![CDATA[在你的后方]]></distractor_1>
+				<distractor_2><![CDATA[在你即将进入的车道中]]></distractor_2>
+				<distractor_3><![CDATA[在你右侧的旁边]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 5: See - Think - Do]]></chapter>
+			<source><![CDATA[]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers5.pdf" />
+			<image file="images/opkt/q94.png" />
+		</question>
+
+		<question id="95">
+			<text><![CDATA[在你倒车之前，你会检查后视镜并进行360度视觉检查以寻找危险。倒车时，]]></text>
+			<answers>
+				<answer><![CDATA[转身通过后窗观察。]]></answer>
+				<distractor_1><![CDATA[确保双手牢固地放在方向盘上]]></distractor_1>
+				<distractor_2><![CDATA[打开危险警示灯]]></distractor_2>
+				<distractor_3><![CDATA[专注于你的后视镜]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 5: See - Think - Do; Observation]]></chapter>
+			<source><![CDATA[Be especially careful when you’re backing out of a driveway. It’s easy to miss seeing children, pets, pedestrians, cyclists and people in wheelchairs.]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers5.pdf" />
+		</question>
+
+		<question id="96">
+			<text><![CDATA[为了保持正确的道路（车道）位置并使车辆行驶在平稳的轨迹上，你应该]]></text>
+			<answers>
+				<answer><![CDATA[提前朝着你想要去的方向看。]]></answer>
+				<distractor_1><![CDATA[专注于前方车辆的后面。]]></distractor_1>
+				<distractor_2><![CDATA[使用你的后视镜。]]></distractor_2>
+				<distractor_3><![CDATA[看着你旁边的车辆，并保持你们之间的距离。]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 5: See - Think - Do; Steering]]></chapter>
+			<source><![CDATA[]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers5.pdf" />
+		</question>
+
+		<question id="97">
+			<text><![CDATA[如果你后面排成了一列车辆，而你的行驶速度低于限速，为什么安全地靠边停车让它们超车是个好主意？]]></text>
+			<answers>
+				<answer><![CDATA[你后面的其他驾驶员可能会变得沮丧和愤怒，并决定不安全地绕过你]]></answer>
+				<distractor_1><![CDATA[这是法律规定]]></distractor_1>
+				<distractor_2><![CDATA[因为不列颠哥伦比亚人很有礼貌。]]></distractor_2>
+				<distractor_3><![CDATA[你不应该以低于限速的速度行驶]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 7: Personal Strategies; Preventing Aggression]]></chapter>
+			<source><![CDATA[If you use your smart driving skills, allow plenty of space and give others the right-of-way, you can help prevent situations that cause aggression.]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers7.pdf" />
+		</question>
+
+		<question id="98">
+			<text><![CDATA[在什么样的驾驶条件下，你会使用两秒规则来确定你的车辆与前方车辆之间的安全跟车距离？]]></text>
+			<answers>
+				<answer><![CDATA[理想的天气条件和在低速道路上，比如在城市中。]]></answer>
+				<distractor_1><![CDATA[在高速公路上。]]></distractor_1>
+				<distractor_2><![CDATA[在恶劣的天气条件下。]]></distractor_2>
+				<distractor_3><![CDATA[当你跟在一辆大型车辆后面时。]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 5: See - Think - Do; Space Margins]]></chapter>
+			<source><![CDATA[]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers5.pdf" />
+		</question>
+
+		<question id="99">
+			<text><![CDATA[你正接近一个没有标志或涂过斑马线的十字路口。有人刚刚从路边踏出要穿过马路。你必须，]]></text>
+			<answers>
+				<answer><![CDATA[让行并准备停车让他们安全地穿过。]]></answer>
+				<distractor_1><![CDATA[通过十字路口时保持速度，因为行人会让车辆。]]></distractor_1>
+				<distractor_2><![CDATA[停车并挥手示意行人穿过]]></distractor_2>
+				<distractor_3><![CDATA[无论是否有行人，都要在十字路口停车]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 6: Sharing the Road; Pedestrians]]></chapter>
+			<source><![CDATA[]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers6.pdf" />
+		</question>
+
+		<question id="100">
+			<text><![CDATA[现在是晚上6点，十字路口有一个学校巡逻员举着停车标志。你看不到周围有孩子。你应该怎么办？]]></text>
+			<answers>
+				<answer><![CDATA[遵守学校巡逻员的指示停车。]]></answer>
+				<distractor_1><![CDATA[放慢速度，慢慢驶过人行横道。]]></distractor_1>
+				<distractor_2><![CDATA[现在不是上学时间，所以学校巡逻员没有权力让你停下。继续通过人行横道。]]></distractor_2>
+				<distractor_3><![CDATA[放慢速度，如果看到孩子，那么你应该停车。]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 6: Sharing the Road; Pedestrians]]></chapter>
+			<source><![CDATA[Obey school patrols or crossing supervisors at all times.]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers6.pdf" />
+			<image file="images/opkt/q100.png" />
+		</question>
+
+		<question id="101">
+			<text><![CDATA[如果有行人带着导盲犬过马路，司机应该]]></text>
+			<answers>
+				<answer><![CDATA[给他们更多空间，因为他们可能不确定车辆与他们的位置关系。]]></answer>
+				<distractor_1><![CDATA[不要和其他行人有任何不同对待。]]></distractor_1>
+				<distractor_2><![CDATA[按一下喇叭，让他们知道可以过马路。]]></distractor_2>
+				<distractor_3><![CDATA[靠近他们，因为他们在倾听车辆的声音。]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 6: Sharing the Road; Pedestrians]]></chapter>
+			<source><![CDATA[]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers6.pdf" />
+		</question>
+
+		<question id="102">
+			<text><![CDATA[骑自行车的人在路上可能会左右摇摆，因为他们需要避开障碍物或应对有风的情况。超越骑自行车的人时，什么是一个好的做法？]]></text>
+			<answers>
+				<answer><![CDATA[尽量给他们留下更多的空间。]]></answer>
+				<distractor_1><![CDATA[在超车前按喇叭。]]></distractor_1>
+				<distractor_2><![CDATA[始终保持你的车道位置。]]></distractor_2>
+				<distractor_3><![CDATA[只有在他们骑在指定的自行车道时才超越他们。否则，你不允许超越骑自行车的人。]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 6: Sharing the Road; Cyclists]]></chapter>
+			<source><![CDATA[]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers6.pdf" />
+			<image file="images/opkt/q102.png" />
+		</question>
+
+		<question id="103">
+			<text><![CDATA[这个骑自行车的人将要做什么？]]></text>
+			<answers>
+				<answer><![CDATA[左转]]></answer>
+				<distractor_1><![CDATA[停下或减速]]></distractor_1>
+				<distractor_2><![CDATA[右转]]></distractor_2>
+				<distractor_3><![CDATA[下车]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 5: See - Think - Do; Communication]]></chapter>
+			<source><![CDATA[This section has an illustration that shows how cyclists signal left turns, right turns, and stopping or slowing down.]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers5.pdf" />
+			<image file="images/opkt/q103.png" />
+		</question>
+
+		<question id="104">
+			<text><![CDATA[在超越骑自行车的人时，你应该在你旁边留下多少空间？]]></text>
+			<answers>
+				<answer><![CDATA[尽可能安全地留下尽可能多的空间。一米或更多。]]></answer>
+				<distractor_1><![CDATA[你和骑自行车的人之间应该保持一米左右的距离。]]></distractor_1>
+				<distractor_2><![CDATA[除非他们骑在指定的自行车道上，否则你不应该超越骑自行车的人。]]></distractor_2>
+				<distractor_3><![CDATA[不要调整你在车道中的位置。]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 6: Sharing the Road; Cyclists]]></chapter>
+			<source><![CDATA[]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers6.pdf" />
+		</question>
+
+		<question id="105">
+			<text><![CDATA[在你右侧有一辆卡车和挂车即将右转。你应该最注意哪个危险？]]></text>
+			<answers>
+				<answer><![CDATA[卡车可能会向外摆动进入你的车道，因为它需要空间来绕过路缘石。放慢速度，小心驾驶。]]></answer>
+				<distractor_1><![CDATA[没有理由特别谨慎。卡车司机有责任进行安全转弯。]]></distractor_1>
+				<distractor_2><![CDATA[你看不见的卡车前面可能有行人。]]></distractor_2>
+				<distractor_3><![CDATA[卡车的尾部可能会打滑进入你的车道。你应该停下直到卡车转弯完成。]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 6: Sharing the Road; Large Vehicles]]></chapter>
+			<source><![CDATA[]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers6.pdf" />
+			<image file="images/opkt/q105.png" />
+		</question>
+
+		<question id="106">
+			<text><![CDATA[你停在一辆红灯闪烁的校车前。你什么时候可以继续行驶？]]></text>
+			<answers>
+				<answer><![CDATA[你必须等到灯停止闪烁。如果校车有一个可伸出的停车标志，它也必须被收回。]]></answer>
+				<distractor_1><![CDATA[你必须等待校车先行。]]></distractor_1>
+				<distractor_2><![CDATA[检查一下有没有孩子，如果看起来安全就继续行驶。]]></distractor_2>
+				<distractor_3><![CDATA[当其他车辆开始移动。]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 6: Sharing the Road; School Buses]]></chapter>
+			<source><![CDATA[]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers6.pdf" />
+			<image file="images/opkt/q106.png" />
+		</question>
+
+		<question id="107">
+			<text><![CDATA[在哪些情况下，你需要让给后面有让行标志并示意要进入交通的公交车？]]></text>
+			<answers>
+				<answer><![CDATA[在所有限速为60公里/小时或更低的道路上]]></answer>
+				<distractor_1><![CDATA[无论限速标志是多少，始终要让公交车通行。]]></distractor_1>
+				<distractor_2><![CDATA[在所有限速为30公里/小时或更低的道路上]]></distractor_2>
+				<distractor_3><![CDATA[只有当你身后没有车辆时]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 6: Sharing the Road; Public Transit Buses]]></chapter>
+			<source><![CDATA[]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers6.pdf" />
+			<image file="images/opkt/q107.png" />
+		</question>
+
+		<question id="108">
+			<text><![CDATA[在被尾随时，增加你和前方车辆之间的安全距离是个好主意，为什么？]]></text>
+			<answers>
+				<answer><![CDATA[如果前方的车突然刹车或出现危险，你可以更缓慢地停下来，减少尾随者撞上你的可能性。]]></answer>
+				<distractor_1><![CDATA[实际上，你应该减少安全距离，以鼓励前面的人加速。]]></distractor_1>
+				<distractor_2><![CDATA[因为这样会让后面的人更容易超车。]]></distractor_2>
+				<distractor_3><![CDATA[让尾随者知道他们必须后退。]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 5: See - Think - Do; Space Margins]]></chapter>
+			<source><![CDATA[]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers5.pdf" />
+			<image file="images/opkt/q108.png" />
+		</question>
+
+		<question id="109">
+			<text><![CDATA[跟随消防车时，你必须保持多远的距离？]]></text>
+			<answers>
+				<answer><![CDATA[150 米]]></answer>
+				<distractor_1><![CDATA[160 米]]></distractor_1>
+				<distractor_2><![CDATA[50 米]]></distractor_2>
+				<distractor_3><![CDATA[60 米]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 6: Sharing the Road; Emergency Vehicles]]></chapter>
+			<source><![CDATA[]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers6.pdf" />
+		</question>
+
+		<question id="110">
+			<text><![CDATA[晚上汽车和火车之间发生许多碰撞是因为]]></text>
+			<answers>
+				<answer><![CDATA[在夜晚，火车横穿道路的一侧可能很难看到，汽车驾驶员看不到火车。]]></answer>
+				<distractor_1><![CDATA[车灯没有打开]]></distractor_1>
+				<distractor_2><![CDATA[由于驾驶员疲劳]]></distractor_2>
+				<distractor_3><![CDATA[由于天气条件]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 6: Sharing the Road; Trains]]></chapter>
+			<source><![CDATA[]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers6.pdf" />
+			<image file="images/opkt/q110.png" />
+		</question>
+
+		<question id="111">
+			<text><![CDATA[在铁路道口，你只会看到哪种颜色的闪烁灯？]]></text>
+			<answers>
+				<answer><![CDATA[红色。]]></answer>
+				<distractor_1><![CDATA[红色和绿色]]></distractor_1>
+				<distractor_2><![CDATA[红色、黄色和绿色]]></distractor_2>
+				<distractor_3><![CDATA[绿色和黄色]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 6: Sharing the Road; Trains]]></chapter>
+			<source><![CDATA[]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers6.pdf" />
+		</question>
+
+		<question id="112">
+			<text><![CDATA[在没有信号灯或停车标志的十字路口（即无控制的十字路口），你必须停下吗？]]></text>
+			<answers>
+				<answer><![CDATA[不必，但你应该减速并准备让其他道路使用者通行。]]></answer>
+				<distractor_1><![CDATA[是的，你必须始终在这些十字路口停车]]></distractor_1>
+				<distractor_2><![CDATA[不必。始终保持你的速度。]]></distractor_2>
+				<distractor_3><![CDATA[不必，但在接近十字路口时使用你的喇叭。]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 4: Rules of the Road Types of Intersections]]></chapter>
+			<source><![CDATA[]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers4.pdf" />
+			<image file="images/opkt/q112.png" />
+		</question>
+
+		<question id="113">
+			<text><![CDATA[你看到前方的红绿灯已经亮了很长时间了。你应该怎么做？]]></text>
+			<answers>
+				<answer><![CDATA[你应该准备好这个长时间亮着的绿灯可能会变红。必要时准备停车。]]></answer>
+				<distractor_1><![CDATA[向前看十字路口，如果没有障碍物，加速通过红绿灯。]]></distractor_1>
+				<distractor_2><![CDATA[开始刹车，因为这个长时间亮着的绿灯很快会变红。]]></distractor_2>
+				<distractor_3><![CDATA[你不需要考虑灯。它是绿色的。]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 4: Rules of the Road Right-of-Way At Intersections]]></chapter>
+			<source><![CDATA[]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers4.pdf" />
+			<image file="images/opkt/q113.png" />
+		</question>
+
+		<question id="114">
+			<text><![CDATA[你停在一个铁路道口，那里有闪烁的灯和铃声。你什么时候可以继续前行？]]></text>
+			<answers>
+				<answer><![CDATA[你必须保持停车，直到安全通过为止。]]></answer>
+				<distractor_1><![CDATA[当火车通过并闪烁的灯变成黄色时]]></distractor_1>
+				<distractor_2><![CDATA[当你看到绿灯信号时]]></distractor_2>
+				<distractor_3><![CDATA[当火车通过时]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 6: Sharing the Road; Trains]]></chapter>
+			<source><![CDATA[]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers6.pdf" />
+		</question>
+
+		<question id="115">
+			<text><![CDATA[如果你开车慢慢行驶，后面排队的车辆，你应该]]></text>
+			<answers>
+				<answer><![CDATA[靠边停车，让其他司机超车。]]></answer>
+				<distractor_1><![CDATA[保持你的速度。]]></distractor_1>
+				<distractor_2><![CDATA[减速并挥手示意其他车辆超车。]]></distractor_2>
+				<distractor_3><![CDATA[向右移动，驶入路肩。]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 7: Personal Strategies; Preventing Aggression]]></chapter>
+			<source><![CDATA[Sharing the road means considering other drivers. What messages do your actions give to other drivers?]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers7.pdf" />
+		</question>
+
+		<question id="116">
+			<text><![CDATA[在城市里良好的天气条件下，你的最小跟车距离至少应该是]]></text>
+			<answers>
+				<answer><![CDATA[2秒]]></answer>
+				<distractor_1><![CDATA[4秒]]></distractor_1>
+				<distractor_2><![CDATA[1秒]]></distractor_2>
+				<distractor_3><![CDATA[3秒]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 5: See - Think - Do; Space Margins]]></chapter>
+			<source><![CDATA[Always leave a safe following distance between your vehicle and the vehicle in front. You need at least two seconds of space in front in good weather and road conditions.]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers5.pdf" />
+		</question>
+
+		<question id="117">
+			<text><![CDATA[如果你在未铺设道路上跟车行驶，你的最小跟车距离至少应该是]]></text>
+			<answers>
+				<answer><![CDATA[3秒]]></answer>
+				<distractor_1><![CDATA[2秒]]></distractor_1>
+				<distractor_2><![CDATA[4秒]]></distractor_2>
+				<distractor_3><![CDATA[6秒]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 5: See - Think - Do; Space Margins]]></chapter>
+			<source><![CDATA[Allow at least three seconds following distance when you are following another vehicle on an unpaved road where dust or gravel may be in the air.]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers5.pdf" />
+		</question>
+
+		<question id="118">
+			<text><![CDATA[这些骑自行车的人在示意要做什么？]]></text>
+			<answers>
+				<answer><![CDATA[向右转。]]></answer>
+				<distractor_1><![CDATA[他们即将下车。]]></distractor_1>
+				<distractor_2><![CDATA[向左转。]]></distractor_2>
+				<distractor_3><![CDATA[停下或减速。]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 5: See - Think - Do; Communication]]></chapter>
+			<source><![CDATA[This section has an illustration that shows how cyclists signal left turns, right turns, and stopping or slowing down.]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers5.pdf" />
+			<image file="images/opkt/q118.png" />
+		</question>
+
+		<question id="119">
+			<text><![CDATA[当公交车在示意进入交通时，车上的这个标志意味着]]></text>
+			<answers>
+				<answer><![CDATA[你必须在限速为60公里/小时或更低的地方让路给它们。]]></answer>
+				<distractor_1><![CDATA[无论限速标志如何，都必须让路给它们。]]></distractor_1>
+				<distractor_2><![CDATA[在所有限速为30公里/小时或更低的道路上都必须让路给它们。]]></distractor_2>
+				<distractor_3><![CDATA[只有在你后面没有其他车辆时才需要让路。]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 6: Sharing the Road; Public Transit Buses]]></chapter>
+			<source><![CDATA[]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers6.pdf" />
+			<image file="images/opkt/q119.png" />
+		</question>
+
+		<question id="120">
+			<text><![CDATA[你在繁忙的交通中，有人在你身后驾驶得太近。以下哪种行为将有助于保护你？]]></text>
+			<answers>
+				<answer><![CDATA[逐渐增加你与前方车辆之间的距离。]]></answer>
+				<distractor_1><![CDATA[减少你前面的空间，以促使前方的人加快速度。]]></distractor_1>
+				<distractor_2><![CDATA[加速以留更多的空间在后方。]]></distractor_2>
+				<distractor_3><![CDATA[按喇叭并闪动刹车灯。]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 5: See - Think - Do; Space Margins]]></chapter>
+			<source><![CDATA[It's a good idea to slow down slightly to increase your space in front. This way, if you have to stop, you can stop more gradually.]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers5.pdf" />
+		</question>
+
+		<question id="121">
+			<text><![CDATA[在铁路路口什么时候会看到绿色闪光灯？]]></text>
+			<answers>
+				<answer><![CDATA[在铁路路口没有闪烁的绿灯。]]></answer>
+				<distractor_1><![CDATA[当火车通过后，作为您前进的信号。]]></distractor_1>
+				<distractor_2><![CDATA[当没有火车驶来时。]]></distractor_2>
+				<distractor_3><![CDATA[在夜间，以帮助您更好地看到火车信号。]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 6: Sharing the Road; Trains]]></chapter>
+			<source><![CDATA[Unlike traffic lights there are no green lights at a railway crossing. When the red railway lights go off and any barriers go up, you may cross the track if the train has passed and it is safe to proceed.]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers6.pdf" />
+		</question>
+
+		<question id="122">
+			<text><![CDATA[在无控制的十字路口停车吗？]]></text>
+			<answers>
+				<answer><![CDATA[您只需要减速并留意其他道路使用者。]]></answer>
+				<distractor_1><![CDATA[您必须始终在无控制的十字路口停车。]]></distractor_1>
+				<distractor_2><![CDATA[您会保持速度，但注意其他道路使用者。]]></distractor_2>
+				<distractor_3><![CDATA[您会按喇叭以让其他人知道您在那里。]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 4: Rules of the Road; Types of Intersections]]></chapter>
+			<source><![CDATA[This is different from when you enter a road from a driveway, alley or parking lot in which case you should always stop before crossing a sidewalk. Make sure you study the rules for the different types of intersections. It’s one of the most common mistakes made when taking our tests.]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers4.pdf" />
+		</question>
+
+		<question id="123">
+			<text><![CDATA[在从辅路或小巷进入之前，车辆A的驾驶员必须在人行道前停车吗？]]></text>
+			<answers>
+				<answer><![CDATA[是的，您必须始终在通过小巷或辅路时停在人行道前。]]></answer>
+				<distractor_1><![CDATA[如果十字路口畅通无阻，您只需减速前进。]]></distractor_1>
+				<distractor_2><![CDATA[您必须在路边停车之前停下。]]></distractor_2>
+				<distractor_3><![CDATA[只有当有行人时您才需要停车。]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 4: Rules of the Road; Types of Intersections]]></chapter>
+			<source><![CDATA[This is different from what you should do at an uncontrolled intersection, which is to slow down and look for other road users. Make sure you study the rules for the different types of intersections.]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers4.pdf" />
+			<image file="images/opkt/q123.png" />
+		</question>
+
+		<question id="124">
+			<text><![CDATA[当双黄线的实线在你这一侧时]]></text>
+			<answers>
+				<answer><![CDATA[你不能超车。]]></answer>
+				<distractor_1><![CDATA[只有在安全的情况下才能超车。]]></distractor_1>
+				<distractor_2><![CDATA[在任何情况下都不能左转越线。]]></distractor_2>
+				<distractor_3><![CDATA[你可以在右侧超车。]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 3: Signs, Signals and Road Markings ]]></chapter>
+			<source><![CDATA[You may not pass however you may make a left turn if you are not impeding other traffic. Yellow lines divide traffic moving in opposite directions. A broken line and a solid line mean you may pass only when it is safe and the broken line is on your side.]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers3.pdf" />
+			<image file="images/opkt/q124.png" />
+		</question>
+
+		<question id="125">
+			<text><![CDATA[当双黄线的实线在你这一侧时，你可以左转吗？]]></text>
+			<answers>
+				<answer><![CDATA[是的，只要你不妨碍其他交通。]]></answer>
+				<distractor_1><![CDATA[你不允许左转。]]></distractor_1>
+				<distractor_2><![CDATA[只有在路的另一侧的驾驶员可以左转。]]></distractor_2>
+				<distractor_3><![CDATA[实线黄线仅表示超车规则。]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 3: Signs, Signals and Road Markings ]]></chapter>
+			<source><![CDATA[It can be confusing when there are two yellow lines in the middle of the street. Just remember if both yellow lines are solid then no passing is allowed in either direction. You may make a left turn as long as you are not impeding other traffic. ]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers3.pdf" />
+			<image file="images/opkt/q125.png" />
+		</question>
+
+		<question id="126">
+			<text><![CDATA[车辆打滑最可能是由于]]></text>
+			<answers>
+				<answer><![CDATA[驾驶技能不佳。]]></answer>
+				<distractor_1><![CDATA[其他驾驶员突然停车。]]></distractor_1>
+				<distractor_2><![CDATA[路面湿滑。]]></distractor_2>
+				<distractor_3><![CDATA[汽车的机械状况。]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 8: Emergency Strategies; Skid Control]]></chapter>
+			<source><![CDATA[We purposely asked the question this way. Slippery conditions will make a car skid but you can choose to reduce speed or increase your following distance with other vehicles. Think about how you will drive if it is icy on the road. Do you have to drive? ]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers8.pdf" />
+		</question>
+
+		<question id="127">
+			<text><![CDATA[如果在湿滑的路上驾驶，你会按照标志的速度限制吗？]]></text>
+			<answers>
+				<answer><![CDATA[我可以决定选择一个安全的降速或增加与其他车辆的跟车距离以避免打滑。]]></answer>
+				<distractor_1><![CDATA[是的，只要我不超速，我应该能够避免打滑。]]></distractor_1>
+				<distractor_2><![CDATA[只有当我的车辆轮胎设计用于各种天气条件时才可以。]]></distractor_2>
+				<distractor_3><![CDATA[只有当我车上装有雪地轮胎时才可以。]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 8: Emergency Strategies]]></chapter>
+			<source><![CDATA[]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers8.pdf" />
+		</question>
+
+		<question id="128">
+			<text><![CDATA[以下哪项不是你在驶入高速公路时应该做的事？]]></text>
+			<answers>
+				<answer><![CDATA[停下来等待一个缝隙。]]></answer>
+				<distractor_1><![CDATA[寻找一个安全的缝隙。]]></distractor_1>
+				<distractor_2><![CDATA[如有必要，使用加速车道调整你的速度。]]></distractor_2>
+				<distractor_3><![CDATA[表示你的意图。]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 4: Rules of the Road; Highway or Freeway Entrances and Exits]]></chapter>
+			<source><![CDATA[Make sure you know how to enter and exit highways and freeways.  Don't stop unless you have no other choice.]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers4.pdf" />
+		</question>
+
+		<question id="129">
+			<text><![CDATA[除非另有标示，城镇外的限速是]]></text>
+			<answers>
+				<answer><![CDATA[80 km/h]]></answer>
+				<distractor_1><![CDATA[70 km/h]]></distractor_1>
+				<distractor_2><![CDATA[60 km/h]]></distractor_2>
+				<distractor_3><![CDATA[50 km/h]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 5: See - Think – Do; Appropriate Speeds]]></chapter>
+			<source><![CDATA[Unless a sign tells you otherwise, the speed limit is 80km/h outside of cities and towns.]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers5.pdf" />
+		</question>
+
+		<question id="130">
+			<text><![CDATA[驾驶员应该在遇到骑自行车的情况下按喇叭]]></text>
+			<answers>
+				<answer><![CDATA[作为合适的警告。]]></answer>
+				<distractor_1><![CDATA[告诉骑自行车者让路。]]></distractor_1>
+				<distractor_2><![CDATA[让骑自行车者给你让路。]]></distractor_2>
+				<distractor_3><![CDATA[显示驾驶员知道骑自行车者在那里。]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 6: Sharing the Road; Cyclists]]></chapter>
+			<source><![CDATA[Don’t honk your horn at a cyclist unless you need to give a warning. A loud honk could startle a cyclist and even cause a fall.]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers6.pdf" />
+		</question>
+
+		<question id="131">
+			<text><![CDATA[你在一条狭窄的道路上，想要超过一个骑自行车的人，你应该]]></text>
+			<answers>
+				<answer><![CDATA[等待一个清晰、直的路段，这样你可以开出去并给予骑自行车者足够的空间。]]></answer>
+				<distractor_1><![CDATA[只有当他们骑在指定的自行车道上时才可以超过他们。否则，你不被允许超过骑自行车的人。]]></distractor_1>
+				<distractor_2><![CDATA[按喇叭告诉他们你想超车。]]></distractor_2>
+				<distractor_3><![CDATA[超过他们，因为骑自行车的人有责任让车辆让路。]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 6: Sharing the Road; Cyclists]]></chapter>
+			<source><![CDATA[Cyclists are vulnerable to being hit while being passed. Wait for a clear, straight stretch that will allow you to pull out and give the cyclist plenty of room as you pass]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers6.pdf" />
+		</question>
+
+		<question id="132">
+			<text><![CDATA[在拥堵的交通中，你如何帮助一个可能想要变换车道并在十字路口左转的骑自行车者？]]></text>
+			<answers>
+				<answer><![CDATA[留出额外的空间，让骑自行车者可以安全地变换车道。]]></answer>
+				<distractor_1><![CDATA[按喇叭并挥手示意骑自行车者通过。]]></distractor_1>
+				<distractor_2><![CDATA[保持你的车道位置。]]></distractor_2>
+				<distractor_3><![CDATA[进入另一个车道，以便其他驾驶员能看到他们的手势信号。]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 6: Sharing the Road; Cyclists]]></chapter>
+			<source><![CDATA[Honking your horn could startle them and using gestures can sometimes be misunderstood.]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers6.pdf" />
+		</question>
+
+		<question id="133">
+			<text><![CDATA[稳定的黄灯意味着：]]></text>
+			<answers>
+				<answer><![CDATA[停车，除非这样做是不安全的。]]></answer>
+				<distractor_1><![CDATA[只有在十字路口有其他车辆时停车。]]></distractor_1>
+				<distractor_2><![CDATA[无论什么情况都停车。]]></distractor_2>
+				<distractor_3><![CDATA[如果你知道你能在它变红之前通过，那就加速。]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 4: Rules of the Road; Right-of-Way at Intersections]]></chapter>
+			<source><![CDATA[Yellow means that the signal is about the turn red. You must stop before entering the intersection unless you cannot safely stop in time.]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers4.pdf" />
+			<image file="images/opkt/q133.png" />
+		</question>
+
+		<question id="134">
+			<text><![CDATA[在四路停车交叉口，车辆必须让右侧的车辆先行，除非：]]></text>
+			<answers>
+				<answer><![CDATA[另一辆车在他们之前完全停下来。]]></answer>
+				<distractor_1><![CDATA[另一辆车比你先到，然后示意你先走。]]></distractor_1>
+				<distractor_2><![CDATA[另一辆车是一辆公共汽车。]]></distractor_2>
+				<distractor_3><![CDATA[行人在其他车辆前面行走，所以你可以先行。]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 4: Rules of the Road; Right-of-Way at Intersections]]></chapter>
+			<source><![CDATA[If someone does take the right of way from you by going first, yield to the other driver for safety.]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers4.pdf" />
+			<image file="images/opkt/q134.png" />
+		</question>
+
+		<question id="135">
+			<text><![CDATA[如果两辆车同时到达四路停车交叉口并且彼此面对面]]></text>
+			<answers>
+				<answer><![CDATA[直行的车辆可以先行。]]></answer>
+				<distractor_1><![CDATA[转弯的车辆可以先行。]]></distractor_1>
+				<distractor_2><![CDATA[如果两辆车同时移动，总是可以的。]]></distractor_2>
+				<distractor_3><![CDATA[总是等待另一辆车先行。]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 4: Rules of the Road; Right-of-Way at Intersections]]></chapter>
+			<source><![CDATA[If someone does take the right of way from you by going first, yield to the other driver for safety.]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers4.pdf" />
+			<image file="images/opkt/q135.png" />
+		</question>
+
+		<question id="136">
+			<text><![CDATA[你已经通过了加速区，准备合并。你应该首先：]]></text>
+			<answers>
+				<answer><![CDATA[向左侧和后方寻找安全的间隙。]]></answer>
+				<distractor_1><![CDATA[减速。]]></distractor_1>
+				<distractor_2><![CDATA[保持加速。]]></distractor_2>
+				<distractor_3><![CDATA[使用手势信号合并到交通中。]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 4: Rules of the Road; Highway or Freeway Entrances and Exits]]></chapter>
+			<source><![CDATA[]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers4.pdf" />
+			<image file="images/opkt/q52.png" />
+		</question>
+
+		<question id="137">
+			<text><![CDATA[为什么在可能的情况下停车等待黄灯是很重要的？]]></text>
+			<answers>
+				<answer><![CDATA[所有这些。]]></answer>
+				<distractor_1><![CDATA[这是法律规定的。]]></distractor_1>
+				<distractor_2><![CDATA[这是最安全的做法。]]></distractor_2>
+				<distractor_3><![CDATA[为了避免碰撞。]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 4: Rules of the Road; Right-of-Way at Intersections]]></chapter>
+			<source><![CDATA[Think about opposing traffic turning left. If you go through the yellow light and they turn can you avoid a crash? It’s only a short wait at the light. ]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers4.pdf" />
+		</question>
+
+		<question id="138">
+			<text><![CDATA[乘客可以通过以下哪种方式帮助司机安全驾驶？]]></text>
+			<answers>
+				<answer><![CDATA[避免可能会分散司机注意力的谈话。]]></answer>
+				<distractor_1><![CDATA[大声交谈，以便司机能听到对话。]]></distractor_1>
+				<distractor_2><![CDATA[调高收音机的音量。]]></distractor_2>
+				<distractor_3><![CDATA[询问问题以保持司机警觉。]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 7: Personal Strategies; Unsafe Passengers]]></chapter>
+			<source><![CDATA[When you are driving, your mind and senses should be focused only on driving. Distractions can affect your hazard perception and your reaction time.]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers7.pdf" />
+		</question>
+
+		<question id="139">
+			<text><![CDATA[当其他驾驶员对你采取攻击性行为时，最好的做法是]]></text>
+			<answers>
+				<answer><![CDATA[避免眼神接触，并给其他驾驶员足够的空间。]]></answer>
+				<distractor_1><![CDATA[回敬攻击，否则他们会认为他们可以为所欲为。]]></distractor_1>
+				<distractor_2><![CDATA[开得更慢，但保留你的通行权。]]></distractor_2>
+				<distractor_3><![CDATA[试图超过他们，将他们甩在身后。]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 7: Personal Strategies; Aggression on the road]]></chapter>
+			<source><![CDATA[If you use your smart driving skills, allow plenty of space and give others the right-of-way, you can help prevent situations that cause aggression.]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers7.pdf" />
+		</question>
+
+		<question id="140">
+			<text><![CDATA[在转弯时，右侧的车辆更容易失去牵引力，因为]]></text>
+			<answers>
+				<answer><![CDATA[它的重心比左侧的车辆更高。]]></answer>
+				<distractor_1><![CDATA[它的轮胎比左侧的车辆更大。]]></distractor_1>
+				<distractor_2><![CDATA[实际上，它的风险较小，因为它的制动器更大。]]></distractor_2>
+				<distractor_3><![CDATA[实际上，它的风险较小，因为驾驶员可以看得更清楚。]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 5: See - Think - Do; Speed Control]]></chapter>
+			<source><![CDATA[A vehicle with a higher centre of gravity is less stable on uneven road surfaces and is more likely to tip over on a curve taken at higher speeds.]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers5.pdf" />
+			<image file="images/opkt/q140.png" />
+		</question>
+
+		<question id="141">
+			<text><![CDATA[当你在转弯时开始失去牵引力时，你应该怎么做？]]></text>
+			<answers>
+				<answer><![CDATA[松开油门，当你重新获得牵引力时轻轻重新加速。]]></answer>
+				<distractor_1><![CDATA[踩刹车。]]></distractor_1>
+				<distractor_2><![CDATA[加速。]]></distractor_2>
+				<distractor_3><![CDATA[紧急制动。]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 5: See - Think - Do; Handling Curves]]></chapter>
+			<source><![CDATA[]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers5.pdf" />
+		</question>
+
+		<question id="142">
+			<text><![CDATA[当你开启远光灯行驶时，一辆车正在接近。当接近的车辆在]]></text>
+			<answers>
+				<answer><![CDATA[150米内时，你必须将灯光调暗。]]></answer>
+				<distractor_1><![CDATA[200米内时。]]></distractor_1>
+				<distractor_2><![CDATA[50米内时。]]></distractor_2>
+				<distractor_3><![CDATA[100米内时。]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 8: Emergency Strategies; Using the Headlights]]></chapter>
+			<source><![CDATA[Do you have trouble judging distances? Most people do. Be courteous and dim your headlights as early as you can.]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers8.pdf" />
+		</question>
+
+		<question id="143">
+			<text><![CDATA[车头灯必须使用]]></text>
+			<answers>
+				<answer><![CDATA[从日落后30分钟到日出前30分钟。]]></answer>
+				<distractor_1><![CDATA[整夜。]]></distractor_1>
+				<distractor_2><![CDATA[白天。]]></distractor_2>
+				<distractor_3><![CDATA[从黎明到黄昏。]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 8: Emergency Strategies; Using the Headlights]]></chapter>
+			<source><![CDATA[It's a safe practice to turn on your headlights whenever it seems dark such as in heavy rain or driving in dark valleys. ]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers8.pdf" />
+		</question>
+
+		<question id="144">
+			<text><![CDATA[在事故发生后，以下哪项是你不应该做的？]]></text>
+			<answers>
+				<answer><![CDATA[讨论事故责任归属。]]></answer>
+				<distractor_1><![CDATA[如果安全的话，将车辆移到路边。]]></distractor_1>
+				<distractor_2><![CDATA[与任何其他涉及的驾驶员交换驾驶证号码。]]></distractor_2>
+				<distractor_3><![CDATA[绘制草图或拍摄现场照片，记录时间、地点和天气等情况。]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 8: Emergency Strategies; At the Scene of a Crash]]></chapter>
+			<source><![CDATA[It will be up to your insurer to assess damages and law enforcement to assess any fines.]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers8.pdf" />
+		</question>
+
+		<question id="145">
+			<text><![CDATA[你跟车的最小安全距离是]]></text>
+			<answers>
+				<answer><![CDATA[城市中的理想条件。]]></answer>
+				<distractor_1><![CDATA[始终是规则。]]></distractor_1>
+				<distractor_2><![CDATA[只有在恶劣的天气条件下。]]></distractor_2>
+				<distractor_3><![CDATA[仅适用于高速公路。]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 5: See - Think - Do; Space Margins]]></chapter>
+			<source><![CDATA[]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers5.pdf" />
+		</question>
+
+		<question id="146">
+			<text><![CDATA[在没有红绿灯或停车标志的十字路口，你应该]]></text>
+			<answers>
+				<answer><![CDATA[减速，踩住制动踏板，并在接近十字路口时两侧观察。]]></answer>
+				<distractor_1><![CDATA[减速并停在十字路口。]]></distractor_1>
+				<distractor_2><![CDATA[保持速度并扫描十字路口。]]></distractor_2>
+				<distractor_3><![CDATA[进入十字路口时减速。]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 4: Rules of the Road; Types of Intersections]]></chapter>
+			<source><![CDATA[This is different from when you enter a road from a driveway, alley or parking lot in which case you should always stop before crossing a sidewalk. Make sure you study the rules for the different types of intersections. It’s one of the most common mistakes made when taking our tests.]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers4.pdf" />
+			<image file="images/opkt/q112.png" />
+		</question>
+
+		<question id="147">
+			<text><![CDATA[在十字路口，哪种信号会被视为停车标志？]]></text>
+			<answers>
+				<answer><![CDATA[闪烁的红灯。]]></answer>
+				<distractor_1><![CDATA[闪烁的黄灯。]]></distractor_1>
+				<distractor_2><![CDATA[闪烁的绿灯。]]></distractor_2>
+				<distractor_3><![CDATA[稳定的黄灯。]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 3: Signs, Signals and Road Markings]]></chapter>
+			<source><![CDATA[If there is a power outage and no lights at all, you would also treat the intersection the same as a stop sign.]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers3.pdf" />
+		</question>
+
+		<question id="148">
+			<text><![CDATA[在驾驶车辆时，如果你持有学习（L）或新手（N）驾照，你可以使用免提的“语音转文本”功能吗？]]></text>
+			<answers>
+				<answer><![CDATA[你不允许在驾驶过程中任何时候使用免提电子设备。]]></answer>
+				<distractor_1><![CDATA[只能在白天使用。]]></distractor_1>
+				<distractor_2><![CDATA[只有当设备需要一个触摸来激活或停用时才能使用。]]></distractor_2>
+				<distractor_3><![CDATA[只有在有合格监督员陪同驾驶时才能使用。]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 7: Personal Strategies; Keeping Focused]]></chapter>
+			<source><![CDATA[This includes pre-programmed or voice-activated GPS devices.]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers7.pdf" />
+		</question>
+
+		<question id="149">
+			<text><![CDATA[在驾驶车辆时，如果你持有学习（L）或新手（N）驾照，你可以使用免提的“语音转文本”功能吗？]]></text>
+			<answers>
+				<answer><![CDATA[你不允许在驾驶过程中任何时候使用免提电子设备。]]></answer>
+				<distractor_1><![CDATA[只能在白天使用。]]></distractor_1>
+				<distractor_2><![CDATA[只有当设备需要一个触摸来激活或停用语音命令时才能使用。]]></distractor_2>
+				<distractor_3><![CDATA[只有在有合格监督员陪同驾驶时才能使用。]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 7: Personal Strategies; Keeping Focused]]></chapter>
+			<source><![CDATA[This includes pre-programmed or voice-activated GPS devices.]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers7.pdf" />
+		</question>
+
+		<question id="150">
+			<text><![CDATA[当接近展示闪烁灯的停止的紧急车辆时，你必须]]></text>
+			<answers>
+				<answer><![CDATA[减速并在交通情况允许的情况下换道。]]></answer>
+				<distractor_1><![CDATA[准备让路。]]></distractor_1>
+				<distractor_2><![CDATA[移到路边的任一侧并停下。]]></distractor_2>
+				<distractor_3><![CDATA[立即停车。]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 6: Sharing the Road; Emergency Workers on Roads]]></chapter>
+			<source><![CDATA[]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers6.pdf" />
+		</question>
+
+		<question id="151">
+			<text><![CDATA[在速度限制为80公里/小时或以上的高速公路上接近一辆停在路边的紧急车辆，除了换道外，你必须减速至]]></text>
+			<answers>
+				<answer><![CDATA[70公里/小时。]]></answer>
+				<distractor_1><![CDATA[40公里/小时。]]></distractor_1>
+				<distractor_2><![CDATA[50公里/小时。]]></distractor_2>
+				<distractor_3><![CDATA[30公里/小时。]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 6: Sharing the Road; Emergency Workers on Roads]]></chapter>
+			<source><![CDATA[]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers6.pdf" />
+		</question>
+
+		<question id="152">
+			<text><![CDATA[在速度限制低于80公里/小时的高速公路上接近一辆停在路边的紧急车辆，除了换道外，你必须减速至]]></text>
+			<answers>
+				<answer><![CDATA[40公里/小时。]]></answer>
+				<distractor_1><![CDATA[70公里/小时。]]></distractor_1>
+				<distractor_2><![CDATA[60公里/小时。]]></distractor_2>
+				<distractor_3><![CDATA[50公里/小时。]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 6: Sharing the Road; Emergency Workers on Roads]]></chapter>
+			<source><![CDATA[]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers6.pdf" />
+		</question>
+
+		<question id="153">
+			<text><![CDATA[空间边界包括能够迅速换到另一个车道以避开危险。哪辆车没有空间边界可以换道？]]></text>
+			<answers>
+				<answer><![CDATA[汽车B]]></answer>
+				<distractor_1><![CDATA[汽车C]]></distractor_1>
+				<distractor_2><![CDATA[汽车A]]></distractor_2>
+				<distractor_3><![CDATA[汽车D]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 5: See - Think - Do; Space Margins]]></chapter>
+			<source><![CDATA[]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers5.pdf" />
+			<image file="images/opkt/q153.png" />
+		</question>
+
+		<question id="154">
+			<text><![CDATA[这个标志的意思是：]]></text>
+			<answers>
+				<answer><![CDATA[双向左转车道。]]></answer>
+				<distractor_1><![CDATA[此路口只允许左转。]]></distractor_1>
+				<distractor_2><![CDATA[前方有双向交通。]]></distractor_2>
+				<distractor_3><![CDATA[此路口允许左转和右转。]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 3: Signs, Signals and Road Markings]]></chapter>
+			<source><![CDATA[]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers3.pdf" />
+			<image file="images/opkt/q154.png" />
+		</question>
+
+		<question id="155">
+			<text><![CDATA[这个标志的意思是：]]></text>
+			<answers>
+				<answer><![CDATA[此路口禁止转弯。]]></answer>
+				<distractor_1><![CDATA[不允许变更车道。]]></distractor_1>
+				<distractor_2><![CDATA[只允许单向交通。]]></distractor_2>
+				<distractor_3><![CDATA[在路口让行给交通。]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 3: Signs, Signals and Road Markings]]></chapter>
+			<source><![CDATA[]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers3.pdf" />
+			<image file="images/opkt/q155.png" />
+		</question>
+
+		<question id="156">
+			<text><![CDATA[这个标志意味着减速至30公里/小时：]]></text>
+			<answers>
+				<answer><![CDATA[每天从黎明到黄昏。]]></answer>
+				<distractor_1><![CDATA[当你看到路上有孩子时。]]></distractor_1>
+				<distractor_2><![CDATA[工作日从黎明到黄昏。]]></distractor_2>
+				<distractor_3><![CDATA[周末从黎明到黄昏。]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 3: Signs, Signals and Road Markings]]></chapter>
+			<source><![CDATA[]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers3.pdf" />
+			<image file="images/opkt/q156.png" />
+		</question>
+
+		<question id="157">
+			<text><![CDATA[这个标志的意思是：]]></text>
+			<answers>
+				<answer><![CDATA[附近有游乐场 - 行驶时要小心。]]></answer>
+				<distractor_1><![CDATA[如果有行人横穿，减速至30公里/小时。]]></distractor_1>
+				<distractor_2><![CDATA[附近有体育场 - 注意危险。]]></distractor_2>
+				<distractor_3><![CDATA[学校人行横道 - 为行人停车。]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 3: Signs, Signals and Road Markings]]></chapter>
+			<source><![CDATA[]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers3.pdf" />
+			<image file="images/opkt/q157.png" />
+		</question>
+
+		<question id="158">
+			<text><![CDATA[稳定的绿色箭头表示：]]></text>
+			<answers>
+				<answer><![CDATA[如果路口畅通，你可以朝箭头指示的方向转弯。]]></answer>
+				<distractor_1><![CDATA[横过的街道是单行道，方向与箭头相同。]]></distractor_1>
+				<distractor_2><![CDATA[在完全停车后，你可以朝箭头指示的方向转弯。]]></distractor_2>
+				<distractor_3><![CDATA[你只能在此路口左转。]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 3: Signs, Signals and Road Markings]]></chapter>
+			<source><![CDATA[]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers3.pdf" />
+			<image file="images/opkt/q158.png" />
+		</question>
+
+		<question id="159">
+			<text><![CDATA[稳定的红灯表示：]]></text>
+			<answers>
+				<answer><![CDATA[停车。完全停下后，你可以右转或者左转进入单行道，除非有禁止标志。]]></answer>
+				<distractor_1><![CDATA[如果有车辆接近，停车。]]></distractor_1>
+				<distractor_2><![CDATA[除非你要右转，否则你必须停车。]]></distractor_2>
+				<distractor_3><![CDATA[停车，然后在安全时继续行驶。]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 3: Signs, Signals and Road Markings]]></chapter>
+			<source><![CDATA[]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers3.pdf" />
+			<image file="images/opkt/q159.png" />
+		</question>
+
+		<question id="160">
+			<text><![CDATA[闪烁的红灯表示：]]></text>
+			<answers>
+				<answer><![CDATA[停车，等待安全时继续行驶。]]></answer>
+				<distractor_1><![CDATA[停车，直到红灯变成闪烁的绿灯。]]></distractor_1>
+				<distractor_2><![CDATA[减速通过路口，如果安全的话。]]></distractor_2>
+				<distractor_3><![CDATA[停车，直到红灯变成闪烁的黄灯。]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 3: Signs, Signals and Road Markings]]></chapter>
+			<source><![CDATA[]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers3.pdf" />
+			<image file="images/opkt/q160.png" />
+		</question>
+
+		<question id="161">
+			<text><![CDATA[闪烁的黄色交通灯意味着：]]></text>
+			<answers>
+				<answer><![CDATA[减速并准备停车。]]></answer>
+				<distractor_1><![CDATA[红灯即将出现。]]></distractor_1>
+				<distractor_2><![CDATA[停车。]]></distractor_2>
+				<distractor_3><![CDATA[绿灯即将出现。]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 3: Signs, Signals and Road Markings]]></chapter>
+			<source><![CDATA[]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers3.pdf" />
+			<image file="images/opkt/q161.png" />
+		</question>
+
+		<question id="162">
+			<text><![CDATA[如果你在分级驾驶许可计划（GLP）中，驾驶时可以使用GPS导航设备吗？]]></text>
+			<answers>
+				<answer><![CDATA[不可以，使用GPS作为电子设备可能会分散注意力。]]></answer>
+				<distractor_1><![CDATA[只有在驾驶前将目的地输入GPS才可以。]]></distractor_1>
+				<distractor_2><![CDATA[只有当GPS设备通过音频引导你时才可以（例如，通过扬声器）。]]></distractor_2>
+				<distractor_3><![CDATA[只有在停车时才可以，比如在红灯时。]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 7: Personal strategies]]></chapter>
+			<source><![CDATA[GLP drivers are restricted from operating hands-free electronic devices while driving.]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers7.pdf" />
+
+		</question>
+
+		<question id="163">
+			<text><![CDATA[驾驶时，手持设备可用于……]]></text>
+			<answers>
+				<answer><![CDATA[以上都不允许。]]></answer>
+				<distractor_1><![CDATA[查看电子邮件或短信。]]></distractor_1>
+				<distractor_2><![CDATA[在车辆音频系统上选择歌曲。]]></distractor_2>
+				<distractor_3><![CDATA[通过GPS查找方向。]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 7: Personal strategies]]></chapter>
+			<source><![CDATA[You can use your phone to dial 911 in an emergency only. Using your cell phone without a hands-free device while driving in any other situation is illegal and will result in penalties and fines.]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers7.pdf" />
+
+		</question>
+
+		<question id="164">
+			<text><![CDATA[我可以在车辆中查看短信……]]></text>
+			<answers>
+				<answer><![CDATA[当车辆安全停在路边时。]]></answer>
+				<distractor_1><![CDATA[在红灯停车时。]]></distractor_1>
+				<distractor_2><![CDATA[在拥堵的交通中停车时。]]></distractor_2>
+				<distractor_3><![CDATA[所有这些都可以。]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 7: Personal strategies ]]></chapter>
+			<source><![CDATA[If you do need to make or receive a call, pull over as soon as it's safe to do so; stay focused on the road and keep the conversation brief.]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers7.pdf" />
+
+		</question>
+
+		<question id="165">
+			<text><![CDATA[作为七级（L）或新手（N）驾驶员，我可以在驾驶时使用我的免提设备……]]></text>
+			<answers>
+				<answer><![CDATA[仅用于紧急电话。]]></answer>
+				<distractor_1><![CDATA[当连接到车辆音频系统时跳过音乐曲目。]]></distractor_1>
+				<distractor_2><![CDATA[查看GPS上的地图。]]></distractor_2>
+				<distractor_3><![CDATA[从不。]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 7: Personal strategies]]></chapter>
+			<source><![CDATA[You can use your phone to dial 911 in an emergency only. Using your cell phone without a hands-free device while driving in any other situation is illegal and will result in penalties and fines.]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers7.pdf" />
+
+		</question>
+
+		<question id="166">
+			<text><![CDATA[你正在一条限速80公里/小时的多车道高速公路的左侧车道以限速行驶。一辆车从后面接近。你必须：]]></text>
+			<answers>
+				<answer><![CDATA[安全地驶入最靠右的车道，让后方车辆超车。]]></answer>
+				<distractor_1><![CDATA[保持你的车道位置。]]></distractor_1>
+				<distractor_2><![CDATA[加速以匹配你后面的车辆速度。]]></distractor_2>
+				<distractor_3><![CDATA[减速以给自己更多安全刹车的空间。]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 4: Rules of the road]]></chapter>
+			<source><![CDATA[When on a multi-lane highway with a posted speed limit above 80km/h and traffic moving at least 50km/h, you must avoid using the left lane if it blocks other drivers from passing. Drivers who block the left lane increase the risk caused by aggressive drivers who may try to pass on the right or tailgate. ]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers4.pdf" />
+			<image file="images/opkt/q166.png" />
+		</question>
+
+
+		<question id="167">
+			<text><![CDATA[你在农村地区的多车道高速公路的左车道以90公里/小时的速度行驶。你必须换到右边车道吗？]]></text>
+			<answers>
+				<answer><![CDATA[除非有车辆从后面接近，你可以留在左车道，以便与道路上的野生动物保持更大的距离。]]></answer>
+				<distractor_1><![CDATA[在高速公路上，除了超车外，你总是要靠右行驶。]]></distractor_1>
+				<distractor_2><![CDATA[只要你以限速行驶，你可以留在左车道。]]></distractor_2>
+				<distractor_3><![CDATA[只有在有闪光灯的急救车从后面靠近时。]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 4: Rules of the road]]></chapter>
+			<source><![CDATA[If there's no traffic behind you it is permitted to drive in the left lane.  On rural roads it is sometimes safer to stay in the left to avoid wildlife near the highway.  When a vehicle approaches from behind move over to the right to let them pass. ]]></source>
+			<link src="http://www.icbc.com/driver-licensing/Documents/drivers4.pdf" />
+			<image file="images/opkt/q167.png" />
+		</question>
+
+		<question id="168">
+			<text><![CDATA[我可以在驾驶时听我电子设备中的音乐吗？]]></text>
+			<answers>
+				<answer><![CDATA[是的，您可以在驾驶时从电子设备中听音乐，只要它连接到车辆的音响系统，并且您在操作车辆时不触摸任何电子设备。]]></answer>
+				<distractor_1><![CDATA[是的，您可以在驾驶时从电子设备中听音乐，只要您戴着耳塞或耳机。]]></distractor_1>
+				<distractor_2><![CDATA[不，您不可以提前连接您的电子设备并使用车辆的系统来听音乐。]]></distractor_2>
+				<distractor_3><![CDATA[是的，您可以在驾驶时从电子设备中听音乐，只要设备安全地固定在车辆的仪表板上。]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 7: Personal Strategies; Keeping Focused]]></chapter>
+			<source><![CDATA[]]></source>
+			<link src="" />
+			<image file="" />
+		</question>
+
+
+		<question id="169">
+			<text><![CDATA[以下哪种情况不符合我在驾驶时可以拨打的紧急电话？]]></text>
+			<answers>
+				<answer><![CDATA[给家人]]></answer>
+				<distractor_1><![CDATA[给警察]]></distractor_1>
+				<distractor_2><![CDATA[给消防部门]]></distractor_2>
+				<distractor_3><![CDATA[给救护服务]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 7: Personal Strategies; Keeping Focused ]]></chapter>
+			<source><![CDATA[]]></source>
+			<link src="" />
+			<image file="" />
+		</question>
+
+
+		<question id="170">
+			<text><![CDATA[如果我在毕业驾驶许可计划（GLP）中，我什么时候可以使用个人电子设备？]]></text>
+			<answers>
+				<answer><![CDATA[以上都不对 - 在GLP中我不能使用个人电子设备]]></answer>
+				<distractor_1><![CDATA[我至少已经参加了六个月的计划]]></distractor_1>
+				<distractor_2><![CDATA[我已经把我的手机固定在车上]]></distractor_2>
+				<distractor_3><![CDATA[我正在使用免提电话或蓝牙电话]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 7: Personal Strategies; Keeping Focused]]></chapter>
+			<source><![CDATA[]]></source>
+			<link src="" />
+			<image file="" />
+		</question>
+
+		<question id="171">
+			<text><![CDATA[如果我在红灯或交通停滞中，我可以查看刚收到的短信吗？]]></text>
+			<answers>
+				<answer><![CDATA[不可以，在路上包括在交通停滞中时，您不得使用手机。]]></answer>
+				<distractor_1><![CDATA[可以，您可以快速看一下屏幕，但不能回复任何消息。]]></distractor_1>
+				<distractor_2><![CDATA[可以，只要车辆不移动意味着您不在驾驶。]]></distractor_2>
+				<distractor_3><![CDATA[可以，只要红灯刚刚亮起。您有大约一分钟的时间安全地使用手机。]]></distractor_3>
+			</answers>
+			<chapter><![CDATA[Chapter 7: Personal Strategies; Keeping Focused]]></chapter>
+			<source><![CDATA[]]></source>
+			<link src="" />
+			<image file="" />
+		</question>
+
+
+
+
+
+
+
+	</questions>
+</test>

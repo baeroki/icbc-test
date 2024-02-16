@@ -1,0 +1,1 @@
+pkg icbc-test.js --target node18-win-x64 --output ./dist/icbc-test

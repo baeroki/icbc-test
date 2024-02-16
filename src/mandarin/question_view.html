@@ -1,0 +1,79 @@
+<div class="row question-content-container">
+  <div class="question-media col-xs-12 col-sm-6"
+    ng-if="data.image._file">
+      <img class="question-image"
+        ng-cloak
+        ng-src="{{ data.image._file }}">
+  </div>
+
+  <div class="question-content col-xs-12"
+    ng-class="{ 'col-sm-6': data.image && data.image._file, 'question-content--hasImage': data.image && data.image._file }">
+      <div class="question-number" ng-cloak>{{ index }}.</div>
+      <div
+        ng-if="data.text.mandarin"
+        class="question-text"
+        ng-bind="data.text.mandarin"
+        style="margin-bottom: 0;"
+        ng-cloak>
+      </div>
+      <div
+        ng-if="data.text.default"
+        class="question-text"
+        ng-bind="data.text.default"
+        ng-cloak>
+      </div>
+      <div
+        ng-if="data.text && !data.text.default"
+        class="question-text"
+        ng-bind="data.text"
+        ng-cloak>
+      </div>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-xs-12">
+      <ol class="question-answerList" role="listbox">
+          <li aria-checked="{{ option === data.choice }}"
+            class="question-answer"
+            ng-repeat="option in data.answers"
+            ng-click="selectOption(option, data.status)"
+            ng-class="answerCssClass(option, data.choice, data.answer, data.status)"
+            ng-cloak
+            role="option">
+
+              <div class="question-answer-content">
+                  <p ng-if="option.mandarin" ng-bind="option.mandarin"></p>
+                  <p ng-if="option.default" ng-bind="option.default"></p>
+                  <p ng-if="option && !option.default" ng-bind="option"></p>
+
+                  <div class="question-tip"
+                    ng-show="data.chapter.__cdata.length || data.source.__cdata.length">
+
+                      <a class="question-tip-chapter"
+                        ng-bind="data.chapter"
+                        ng-click="chapterClick($event, data.chapter, data.link._src)"
+                        ng-if="data.chapter.__cdata.length"
+                        ng-href="{{ data.link._src }}"
+                        target="_blank">
+                      </a>
+
+                      <p class="question-tip-source"
+                        ng-bind="data.source"
+                        ng-if="data.source.__cdata.length">
+                      </p>
+
+                  </div>
+
+                  <button class="button button--submit"
+                    ng-bind="content.confirm"
+                    ng-click="submit()"
+                    role="button"
+                    type="button">
+                  </button>
+              </div>
+
+          </li>
+      </ol>
+  </div>
+</div>

@@ -1,0 +1,75 @@
+<header class="header" role="banner">
+  <div class="container">
+      <h1 class="header-text" ng-bind="$root.content.title"></h1>
+      <div class="header-logo">ICBC</div>
+  </div>
+</header>
+
+<div class="container"
+ng-class="{ 'container--continue': question.status !== 'unanswered' }"
+role="main">
+  <section class="question"
+    ng-class="{ 'question--noImage': !question.image }">
+      <div question class="question-container"
+        data-content="$root.content"
+        data-data="question"
+        data-index="currentQuestion"
+        data-submit="submitOption">
+      </div>
+  </section>
+</div>
+
+<div class="question-preload">
+  <img ng-src="{{ nextQuestionImage._file }}">
+</div>
+
+<div class="affixed"
+ng-if="question.status !== 'unanswered'">
+  <button class="button button--continue button--block"
+    ng-bind="$root.content.continue"
+    ng-click="nextQuestion()"
+    role="button"
+    type="button">
+  </button>
+</div>
+
+<footer class="footer">
+  <div class="container">
+      <div class="row">
+          <div class="col-xs-12" aria-live="polite">
+              <p class="progress-text" ng-cloak>
+                  <strong>{{ answeredQuestions }}</strong>
+                  {{ $root.content.of.__cdata }}
+                  <strong>{{ test._totalQuestions }}</strong>
+                  {{ $root.content.answered.__cdata }}.
+
+                  <span class="progress-text-muted">
+                      {{ correctQuestions }}
+                      {{ $root.content.correct.__cdata }}.
+                  </span>
+              </p>
+
+              <div progressbar
+                data-content="$root.content"
+                data-correct="correctQuestions"
+                data-incorrect="incorrectQuestions"
+                data-total="test._totalQuestions">
+              </div>
+          </div>
+
+          <div class="key-item"
+            ng-class="{ 'key-item--fadeOut': question.status !== 'unanswered' }">
+
+              <span class="key-item-status key-item-status--correct"
+                ng-bind="$root.content.correct"
+                ng-if="question.status === 'correct'">
+              </span>
+
+              <span class="key-item-status key-item-status--incorrect"
+                ng-bind="$root.content.incorrect"
+                ng-if="question.status === 'incorrect'">
+              </span>
+          </div>
+      </div>
+  </div>
+</footer>

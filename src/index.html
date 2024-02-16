@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta content="width=device-width, initial-scale=1" name="viewport">
+
+        <title>ICBC Practice Knowledge Test - Prepare to get your L</title>
+        <meta name="description" content="Planning to get your B.C. driver's licence? Prepare for your test with our online practice knowledge test, covering road signs and rules of the road.">
+        <meta name="author" content="ICBC">
+
+        <meta name="twitter:card" value="summary">
+        <meta name="twitter:site" content="@icbc">
+
+        <meta property="og:title" content="ICBC Practice Knowledge Test - Prepare to get your L">
+        <meta property="og:description" content="Planning to get your B.C. driver's licence? Prepare for your test with our online practice knowledge test, covering road signs and rules of the road.">
+
+        <meta property="og:url" content="http://practicetest.icbc.com">
+        <meta property="og:image" content="http://practicetest.icbc.com/images/open-graph-practicetest.gif">
+        <meta property="og:image:type" content="image/gif">
+        <meta property="og:image:width" content="509">
+        <meta property="og:image:height" content="266">
+
+
+        <link rel="stylesheet" href="styles/vendor/normalize.css">
+        <link rel="stylesheet" href="styles/style.css">
+
+        <link rel="icon" type="image/x-icon" href="favicon.ico" />
+
+        <script src="components/vendor/modernizr.custom.min.js?v=1483575023017"></script>
+    </head>
+    <body ng-app="testApp" ng-class="$root.bodyClass">
+        <a class="header-top" id="top"></a>
+
+        <div class="splash container" ng-show="$root.bodyClass === 'splash'">
+            <header class="hero" role="banner">
+                <div class="hero-logo">ICBC</div>
+                <h1>Practice knowledge test</h1>
+            </header>
+
+            <div class="row" role="main">
+                <noscript>
+                    <p>The practice knowledge test requires your browser to support JavaScript and have it enabled.</p>
+                </noscript>
+
+                <a class="button button--block button--splash" ng-href="#/opkt">Full test</a>
+                <a class="button button--block button--splash" ng-href="#/signs">Signs test</a>
+                <a title="You will need the Punjabi character set installed to take the Punjabi knowledge test." class="button button--punjabi button--block button--splash" ng-href="#/opkt/punjabi">ਪੰਜਾਬੀ</a>
+                <a title="You will need the Mandarin character set installed to take the Punjabi knowledge test." class="button button--mandarin button--block button--splash" ng-href="#/opkt/mandarin">简体中文</a>
+            </div>
+
+            <aside class="row" role="complimentary">
+                <p>Need to study before your knowledge test? Check out the <a href="http://www.icbc.com/driver-licensing/driving-guides/Pages/Learn-to-Drive-Smart.aspx" target="_blank">Learn to Drive Smart Manual</a>.</p>
+            </aside>
+        </div>
+
+        <div ng-view></div>
+
+        <script src="components/vendor/angular.min.js?v=1599634800000"></script>
+        <script src="components/vendor/angular-route.min.js?v=1599634800000"></script>
+        <script src="components/vendor/angular-sanitize.min.js?v=1599634800000"></script>
+        <script src="components/vendor/angular-touch.min.js?v=1599634800000"></script>
+        <script src="components/vendor/sprintf.min.js?v=1599634800000"></script>
+        <script src="components/vendor/xml2json.min.js?v=1599634800000"></script>
+
+        <script src="components/app.js?v=1599634800000"></script>
+        <script src="components/progressbar/directive.js"></script>
+        <script src="components/question/directive.js"></script>
+        <script src="components/results/controller.js"></script>
+        <script src="components/splash/controller.js"></script>
+        <script src="components/test/controller.js"></script>
+        <script src="components/test/factory.js"></script>
+
+        <script>
+          (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+          (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+          m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+          })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+          ga('create', 'UA-48227213-7', 'auto');
+          ga('send', 'pageview');
+        </script>
+        <!-- Google tag (gtag.js) -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-FKMNFDKK3E"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'G-FKMNFDKK3E', { 'debug_mode': location.host !== 'practicetest.icbc.com' });
+        </script>
+    </body>
+</html>
