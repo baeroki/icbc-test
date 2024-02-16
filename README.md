@@ -1,9 +1,9 @@
 ## 关于
 ICBC官方驾考测试只有英语与Punjabi，本项目在ICBC官方驾考测试的基础上增加简体中文与英文双语对照的版本。
 
-<img src="https://github.com/baeroki/icbc-test/blob/master/screenshots/launch.png?raw=true" alt="Launch" title="Launch" width="600" />
+<img src="https://github.com/baeroki/icbc-test/blob/master/screenshots/launch.png?raw=true" alt="Launch" title="Launch" width="800" />
 
-<img src="https://github.com/baeroki/icbc-test/blob/master/screenshots/test.png?raw=true" alt="Test" title="Test" width="600" />
+<img src="https://github.com/baeroki/icbc-test/blob/master/screenshots/test.png?raw=true" alt="Test" title="Test" width="800" />
 
 ## 安装
 
